@@ -64,4 +64,3 @@ with open('embedded_chunks', 'w') as f:
     json.dump(embedded_chunks, f)
 
 print(f"Saved {len(embedded_chunks)} embedded chunks")
-
