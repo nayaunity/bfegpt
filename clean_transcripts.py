@@ -10,31 +10,37 @@ def clean_vtt(file_path):
     text_lines = []
     
     for line in lines:
+        # Skip WEBVTT header and metadata
+        if line.strip() in ['WEBVTT', ''] or line.startswith('Kind:') or line.startswith('Language:'):
+            continue
+        # Skip timestamp lines (they contain -->)
+        if '-->' in line:
+            continue
         # Skip line numbers
         if re.match(r'^\d+$', line.strip()):
             continue
-        # Skip timestamps
-        if re.match(r'\d{2}:\d{2}:\d{2}', line):
-            continue
-        # Skip empty lines and header
-        if line.strip() == '' or line.strip() == 'WEBVTT':
-            continue
-        text_lines.append(line.strip())
+        
+        # Remove inline timestamp tags like <00:00:00.719><c> and </c>
+        cleaned_line = re.sub(r'<[^>]+>', '', line)
+        cleaned_line = cleaned_line.strip()
+        
+        if cleaned_line:
+            text_lines.append(cleaned_line)
     
-    # Deduplicate rolling captions
-    cleaned = []
+    # Deduplicate rolling captions (each line often repeats the previous)
+    unique_lines = []
     for line in text_lines:
-        if not cleaned or line not in cleaned[-1]:
-            cleaned.append(line)
+        # Only add if this line isn't contained in the previous one
+        if not unique_lines or line not in unique_lines[-1]:
+            unique_lines.append(line)
     
-    return ' '.join(cleaned)
+    return ' '.join(unique_lines)
 
 
 def process_all_transcripts():
     input_folder = "transcripts"
     output_folder = "processed"
     
-    # Create output folder if it doesn't exist
     os.makedirs(output_folder, exist_ok=True)
     
     files = [f for f in os.listdir(input_folder) if f.endswith('.vtt')]
@@ -44,10 +50,8 @@ def process_all_transcripts():
         video_title = filename.replace('.en.vtt', '')
         file_path = os.path.join(input_folder, filename)
         
-        # Clean it
         transcript = clean_vtt(file_path)
         
-        # Save as JSON
         output_data = {
             "video_title": video_title,
             "transcript": transcript
