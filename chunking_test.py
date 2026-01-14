@@ -20,17 +20,14 @@ PROCESSED_DIR = "processed"
 def process_all_transcripts():
     processed_path = Path(PROCESSED_DIR)
     json_files = list(processed_path.glob("*.json"))
-    print(f"Found {len(json_files)} transcript files to process")
     all_transcripts = []
 
     for i, file in enumerate(json_files):
-        print(f"On number {i} out of {len(json_files)}")
         with open(file, 'r') as f:
             data = json.load(f)
         
         transcript = data['transcript']
         title = data.get('video_title', file.stem)
-        print(f"Loaded transcript: {len(transcript)} characters!")
 
         all_transcripts.append({
             'title': title,
@@ -64,7 +61,6 @@ def chunk_all_transcripts(all_transcripts):
     all_chunks = []
     for i, video in enumerate(all_transcripts):
         chunks = create_chunks(video['transcript'], CHUNK_SIZE, OVERLAP)
-        print(f"Created {len(chunks)} chunks")
         
         all_chunks.append({
             'title': video['title'],
@@ -76,7 +72,6 @@ def chunk_all_transcripts(all_transcripts):
 
 all_chunks = chunk_all_transcripts(all_transcripts)
 
-print(f"\nTotal videos chunked: {len(all_chunks)}")
 
 
 
