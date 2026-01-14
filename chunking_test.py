@@ -1,26 +1,99 @@
-# from dotenv import load_dotenv
-# import os
-# import json
-# from openai import OpenAI
+import os
+import chromadb
+import json
+import time
+from openai import OpenAI
+from pathlib import Path
+from dotenv import load_dotenv
 
-# load_dotenv()
+load_dotenv()
+client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 
-# client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
+chroma_client = chromadb.PersistentClient(path='./chroma_db')
+collection = chroma_client.get_or_create_collection(
+    name="youtube_transcripts",
+    metadata={"description": "The Black Female Engineer YouTube Content"}
+    )
+
+PROCESSED_DIR = "processed"
+
+def process_all_transcripts():
+    processed_path = Path(PROCESSED_DIR)
+    json_files = list(processed_path.glob("*.json"))
+    print(f"Found {len(json_files)} transcript files to process")
+    all_transcripts = []
+
+    for i, file in enumerate(json_files):
+        print(f"On number {i} out of {len(json_files)}")
+        with open(file, 'r') as f:
+            data = json.load(f)
+        
+        transcript = data['transcript']
+        title = data.get('video_title', file.stem)
+        print(f"Loaded transcript: {len(transcript)} characters!")
+
+        all_transcripts.append({
+            'title': title,
+            'transcript': transcript,
+            'video_id': file.stem
+        })
+
+    return all_transcripts
+
+all_transcripts = process_all_transcripts()
+
+# Now, chunk the transcripts
+
+CHUNK_SIZE = 500
+OVERLAP = 100
+
+def create_chunks(transcript, chunks_size, overlap):
+    chunks = []
+    start = 0
+
+    while start < len(transcript):
+        end = start + chunks_size
+        chunk = transcript[start:end]
+        chunks.append(chunk)
+
+        start = end - overlap
+    
+    return chunks
+
+def chunk_all_transcripts(all_transcripts):
+    all_chunks = []
+    for i, video in enumerate(all_transcripts):
+        chunks = create_chunks(video['transcript'], CHUNK_SIZE, OVERLAP)
+        print(f"Created {len(chunks)} chunks")
+        
+        all_chunks.append({
+            'title': video['title'],
+            'video_id': video['video_id'],
+            'chunks': chunks
+        })
+    
+    return all_chunks
+
+all_chunks = chunk_all_transcripts(all_transcripts)
+
+print(f"\nTotal videos chunked: {len(all_chunks)}")
 
 
-# with open('processed/CRACKINGTHE.json', 'r') as f:
-#     data = json.load(f)
 
-# transcript = data['transcript']
 
-# # print(transcript)
+
+
+
+
+
+
 
 # CHUNK_SIZE = 500
 # OVERLAP = 100
 
-# def chunk_text(text, chunk_size, overlap):
-#     chunks = []
+# def create_chunks(text, chunk_size, overlap):
 #     start = 0
+#     chunks = []
 
 #     while start < len(text):
 #         end = start + chunk_size
@@ -28,116 +101,46 @@
 #         chunks.append(chunk)
 
 #         start = end - overlap
-    
+
 #     return chunks
 
-# chunks = chunk_text(transcript, CHUNK_SIZE, OVERLAP)
-# # print(f"Total chunks: {len(chunks)}")
-# # print(f"First chunk preview: {chunks[0]}")
-# # print(f"Last chunk preview: {chunks[-1]}")
+# chunks = create_chunks(transcript, CHUNK_SIZE, OVERLAP)
+# print(f"length of chunks: {len(chunks)}")
 
-# def get_embedding(text):
+# #  Now we need to create embeddings from the chunked text
+
+# def create_embedding(text):
 #     response = client.embeddings.create(
 #         model = "text-embedding-3-small",
 #         input = text
 #     )
-#     return response.data[0].embedding
 
-# # test_embedding = get_embedding(chunks[0])
-# # print(f"output length: {len(test_embedding)}")
-# # for chunk in chunks:
-# #     get_embedding(chunk)
+#     embedding = response.data[0].embedding
+#     return embedding
 
-# embedded_chunks = []
+# # embedding = create_embedding(chunks[0])
 
-# for i, chunk in enumerate(chunks):
-#     embedding = get_embedding(chunk)
-#     embedded_chunks.append({
-#         "chunk_id": i,
-#         "text": chunk,
-#         "embedding": embedding
-#     })
+# def create_structured_embedding():
+#     structured_embedding = []
+#     ids = []
+#     documents = []
+#     embeddings = []
 
-#     print(f"embedded chunk {i + 1} out of {len(chunks)}")
-
-# with open('embedded_chunks', 'w') as f:
-#     json.dump(embedded_chunks, f)
-
-# print(f"Saved {len(embedded_chunks)} embedded chunks")
-
-import os
-import chromadb
-import json
-from openai import OpenAI
-from dotenv import load_dotenv
-
-load_dotenv()
-client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
-
-chroma_client = chromadb.PersistentClient(path='./chroma_db')
-collection = chroma_client.get_or_create_collection(name="youtube_transcripts")
-
-# Get text which is the transcript
-
-with open('processed/CRACKINGTHE.json', 'r') as f:
-    data = json.load(f)
-
-transcript = data['transcript']
-#  Now we need to chunk the text
-
-CHUNK_SIZE = 500
-OVERLAP = 100
-
-def create_chunks(text, chunk_size, overlap):
-    start = 0
-    chunks = []
-
-    while start < len(text):
-        end = start + chunk_size
-        chunk = text[start:end]
-        chunks.append(chunk)
-
-        start = end - overlap
-
-    return chunks
-
-chunks = create_chunks(transcript, CHUNK_SIZE, OVERLAP)
-print(f"length of chunks: {len(chunks)}")
-
-#  Now we need to create embeddings from the chunked text
-
-def create_embedding(text):
-    response = client.embeddings.create(
-        model = "text-embedding-3-small",
-        input = text
-    )
-
-    embedding = response.data[0].embedding
-    return embedding
-
-# embedding = create_embedding(chunks[0])
-
-def create_structured_embedding():
-    structured_embedding = []
-    ids = []
-    documents = []
-    embeddings = []
-
-    for i, chunk in enumerate(chunks):
-        embedding = create_embedding(chunk)
-        ids.append(str(i))
-        documents.append(chunk)
-        embeddings.append(embedding)
-        print(f"Embedded chunk {i + 1} of {len(chunks)}")
+#     for i, chunk in enumerate(chunks):
+#         embedding = create_embedding(chunk)
+#         ids.append(str(i))
+#         documents.append(chunk)
+#         embeddings.append(embedding)
+#         print(f"Embedded chunk {i + 1} of {len(chunks)}")
     
-    collection.add(
-        ids = ids,
-        documents = documents,
-        embeddings = embeddings
-    )
+#     collection.add(
+#         ids = ids,
+#         documents = documents,
+#         embeddings = embeddings
+#     )
     
-    return collection
+#     return collection
 
-create_structured_embedding()
+# create_structured_embedding()
 
-print(f"added {collection.count()} embeddings")
+# print(f"added {collection.count()} embeddings")
