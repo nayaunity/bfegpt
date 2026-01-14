@@ -1,0 +1,3096 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:02.389 align:start position:0%
+ 
+hello<00:00:00.560><c> everybody</c><00:00:01.280><c> my</c><00:00:01.439><c> name</c><00:00:01.599><c> is</c><00:00:01.760><c> nyan</c><00:00:02.159><c> i'm</c><00:00:02.240><c> the</c>
+
+00:00:02.389 --> 00:00:02.399 align:start position:0%
+hello everybody my name is nyan i'm the
+ 
+
+00:00:02.399 --> 00:00:04.309 align:start position:0%
+hello everybody my name is nyan i'm the
+black<00:00:02.639><c> female</c><00:00:02.960><c> engineer</c><00:00:03.360><c> i</c><00:00:03.520><c> provide</c><00:00:03.919><c> content</c>
+
+00:00:04.309 --> 00:00:04.319 align:start position:0%
+black female engineer i provide content
+ 
+
+00:00:04.319 --> 00:00:06.470 align:start position:0%
+black female engineer i provide content
+for<00:00:04.480><c> new</c><00:00:04.960><c> and</c><00:00:05.120><c> aspiring</c><00:00:05.759><c> software</c><00:00:06.080><c> engineers</c>
+
+00:00:06.470 --> 00:00:06.480 align:start position:0%
+for new and aspiring software engineers
+ 
+
+00:00:06.480 --> 00:00:10.070 align:start position:0%
+for new and aspiring software engineers
+and<00:00:06.640><c> today</c><00:00:07.520><c> we</c><00:00:07.839><c> are</c><00:00:08.080><c> talking</c><00:00:08.639><c> about</c><00:00:09.360><c> pair</c>
+
+00:00:10.070 --> 00:00:10.080 align:start position:0%
+and today we are talking about pair
+ 
+
+00:00:10.080 --> 00:00:12.470 align:start position:0%
+and today we are talking about pair
+programming<00:00:10.880><c> and</c><00:00:11.040><c> why</c><00:00:11.519><c> you</c><00:00:11.759><c> need</c><00:00:11.920><c> to</c><00:00:12.080><c> start</c>
+
+00:00:12.470 --> 00:00:12.480 align:start position:0%
+programming and why you need to start
+ 
+
+00:00:12.480 --> 00:00:15.270 align:start position:0%
+programming and why you need to start
+doing<00:00:12.799><c> it</c><00:00:13.280><c> yesterday</c><00:00:14.160><c> yeah</c><00:00:14.719><c> yeah</c><00:00:14.960><c> you're</c>
+
+00:00:15.270 --> 00:00:15.280 align:start position:0%
+doing it yesterday yeah yeah you're
+ 
+
+00:00:15.280 --> 00:00:16.790 align:start position:0%
+doing it yesterday yeah yeah you're
+you're<00:00:15.519><c> late</c><00:00:15.759><c> i'll</c><00:00:16.000><c> first</c><00:00:16.240><c> like</c><00:00:16.400><c> to</c><00:00:16.560><c> thank</c>
+
+00:00:16.790 --> 00:00:16.800 align:start position:0%
+you're late i'll first like to thank
+ 
+
+00:00:16.800 --> 00:00:18.790 align:start position:0%
+you're late i'll first like to thank
+postscreen<00:00:17.359><c> for</c><00:00:17.520><c> sponsoring</c><00:00:18.080><c> this</c><00:00:18.240><c> video</c>
+
+00:00:18.790 --> 00:00:18.800 align:start position:0%
+postscreen for sponsoring this video
+ 
+
+00:00:18.800 --> 00:00:21.189 align:start position:0%
+postscreen for sponsoring this video
+co-screen<00:00:19.359><c> is</c><00:00:19.520><c> amazing</c><00:00:20.160><c> collaboration</c><00:00:21.039><c> and</c>
+
+00:00:21.189 --> 00:00:21.199 align:start position:0%
+co-screen is amazing collaboration and
+ 
+
+00:00:21.199 --> 00:00:23.509 align:start position:0%
+co-screen is amazing collaboration and
+screen<00:00:21.600><c> sharing</c><00:00:22.080><c> tool</c><00:00:22.560><c> and</c><00:00:22.720><c> i</c><00:00:22.880><c> know</c><00:00:23.039><c> a</c><00:00:23.119><c> lot</c><00:00:23.359><c> of</c>
+
+00:00:23.509 --> 00:00:23.519 align:start position:0%
+screen sharing tool and i know a lot of
+ 
+
+00:00:23.519 --> 00:00:25.670 align:start position:0%
+screen sharing tool and i know a lot of
+people<00:00:24.080><c> kind</c><00:00:24.240><c> of</c><00:00:24.480><c> cringe</c><00:00:24.960><c> at</c><00:00:25.039><c> the</c><00:00:25.199><c> thought</c><00:00:25.439><c> of</c>
+
+00:00:25.670 --> 00:00:25.680 align:start position:0%
+people kind of cringe at the thought of
+ 
+
+00:00:25.680 --> 00:00:27.589 align:start position:0%
+people kind of cringe at the thought of
+pair<00:00:26.000><c> programming</c><00:00:26.560><c> but</c><00:00:26.720><c> code</c><00:00:26.960><c> screen</c><00:00:27.279><c> really</c>
+
+00:00:27.589 --> 00:00:27.599 align:start position:0%
+pair programming but code screen really
+ 
+
+00:00:27.599 --> 00:00:30.310 align:start position:0%
+pair programming but code screen really
+makes<00:00:27.840><c> it</c><00:00:28.160><c> this</c><00:00:28.480><c> fun</c><00:00:28.960><c> enjoyable</c><00:00:29.840><c> experience</c>
+
+00:00:30.310 --> 00:00:30.320 align:start position:0%
+makes it this fun enjoyable experience
+ 
+
+00:00:30.320 --> 00:00:32.150 align:start position:0%
+makes it this fun enjoyable experience
+that<00:00:30.560><c> you</c><00:00:30.800><c> can't</c><00:00:31.119><c> wait</c><00:00:31.359><c> to</c><00:00:31.599><c> have</c><00:00:31.920><c> and</c><00:00:32.000><c> so</c>
+
+00:00:32.150 --> 00:00:32.160 align:start position:0%
+that you can't wait to have and so
+ 
+
+00:00:32.160 --> 00:00:34.310 align:start position:0%
+that you can't wait to have and so
+before<00:00:32.480><c> we</c><00:00:32.640><c> talk</c><00:00:32.960><c> more</c><00:00:33.200><c> about</c><00:00:33.600><c> that</c><00:00:34.000><c> first</c>
+
+00:00:34.310 --> 00:00:34.320 align:start position:0%
+before we talk more about that first
+ 
+
+00:00:34.320 --> 00:00:36.150 align:start position:0%
+before we talk more about that first
+let's<00:00:34.559><c> go</c><00:00:35.040><c> into</c>
+
+00:00:36.150 --> 00:00:36.160 align:start position:0%
+let's go into
+ 
+
+00:00:36.160 --> 00:00:37.830 align:start position:0%
+let's go into
+what<00:00:36.399><c> is</c><00:00:36.640><c> pair</c><00:00:36.960><c> programming</c><00:00:37.360><c> so</c><00:00:37.520><c> pair</c>
+
+00:00:37.830 --> 00:00:37.840 align:start position:0%
+what is pair programming so pair
+ 
+
+00:00:37.840 --> 00:00:39.670 align:start position:0%
+what is pair programming so pair
+programming<00:00:38.399><c> you</c><00:00:38.480><c> know</c><00:00:38.640><c> the</c><00:00:38.800><c> name</c><00:00:39.120><c> itself</c><00:00:39.520><c> is</c>
+
+00:00:39.670 --> 00:00:39.680 align:start position:0%
+programming you know the name itself is
+ 
+
+00:00:39.680 --> 00:00:41.510 align:start position:0%
+programming you know the name itself is
+quite<00:00:40.000><c> self-explanatory</c>
+
+00:00:41.510 --> 00:00:41.520 align:start position:0%
+quite self-explanatory
+ 
+
+00:00:41.520 --> 00:00:44.709 align:start position:0%
+quite self-explanatory
+it<00:00:41.840><c> is</c><00:00:42.320><c> programming</c><00:00:43.200><c> in</c><00:00:43.520><c> a</c><00:00:43.760><c> pair</c><00:00:44.160><c> or</c><00:00:44.320><c> in</c><00:00:44.480><c> some</c>
+
+00:00:44.709 --> 00:00:44.719 align:start position:0%
+it is programming in a pair or in some
+ 
+
+00:00:44.719 --> 00:00:47.510 align:start position:0%
+it is programming in a pair or in some
+type<00:00:45.120><c> of</c><00:00:45.680><c> group</c><00:00:46.160><c> ideally</c><00:00:46.640><c> you</c><00:00:46.800><c> team</c><00:00:47.120><c> up</c><00:00:47.280><c> with</c>
+
+00:00:47.510 --> 00:00:47.520 align:start position:0%
+type of group ideally you team up with
+ 
+
+00:00:47.520 --> 00:00:50.069 align:start position:0%
+type of group ideally you team up with
+one<00:00:47.760><c> other</c><00:00:48.079><c> person</c><00:00:48.719><c> and</c><00:00:48.960><c> you</c><00:00:49.280><c> all</c><00:00:49.440><c> decide</c><00:00:49.920><c> who</c>
+
+00:00:50.069 --> 00:00:50.079 align:start position:0%
+one other person and you all decide who
+ 
+
+00:00:50.079 --> 00:00:51.430 align:start position:0%
+one other person and you all decide who
+will<00:00:50.160><c> be</c><00:00:50.320><c> the</c><00:00:50.480><c> driver</c><00:00:50.879><c> who</c><00:00:51.039><c> will</c><00:00:51.120><c> be</c><00:00:51.280><c> the</c>
+
+00:00:51.430 --> 00:00:51.440 align:start position:0%
+will be the driver who will be the
+ 
+
+00:00:51.440 --> 00:00:54.229 align:start position:0%
+will be the driver who will be the
+navigator<00:00:52.320><c> the</c><00:00:52.480><c> driver</c><00:00:52.960><c> is</c><00:00:53.120><c> the</c><00:00:53.280><c> person</c><00:00:53.920><c> who</c>
+
+00:00:54.229 --> 00:00:54.239 align:start position:0%
+navigator the driver is the person who
+ 
+
+00:00:54.239 --> 00:00:56.790 align:start position:0%
+navigator the driver is the person who
+really<00:00:54.719><c> actually</c><00:00:55.520><c> types</c><00:00:55.840><c> and</c><00:00:56.000><c> codes</c><00:00:56.399><c> things</c>
+
+00:00:56.790 --> 00:00:56.800 align:start position:0%
+really actually types and codes things
+ 
+
+00:00:56.800 --> 00:00:59.110 align:start position:0%
+really actually types and codes things
+out<00:00:57.039><c> while</c><00:00:57.199><c> the</c><00:00:57.360><c> navigator</c><00:00:58.079><c> kind</c><00:00:58.239><c> of</c><00:00:58.640><c> guides</c>
+
+00:00:59.110 --> 00:00:59.120 align:start position:0%
+out while the navigator kind of guides
+ 
+
+00:00:59.120 --> 00:01:00.790 align:start position:0%
+out while the navigator kind of guides
+that<00:00:59.359><c> driver</c><00:00:59.840><c> if</c><00:01:00.000><c> you're</c><00:01:00.160><c> thinking</c><00:01:00.399><c> about</c><00:01:00.640><c> a</c>
+
+00:01:00.790 --> 00:01:00.800 align:start position:0%
+that driver if you're thinking about a
+ 
+
+00:01:00.800 --> 00:01:03.110 align:start position:0%
+that driver if you're thinking about a
+car<00:01:01.120><c> the</c><00:01:01.359><c> driver</c><00:01:01.760><c> is</c><00:01:02.000><c> you</c><00:01:02.079><c> know</c><00:01:02.239><c> the</c><00:01:02.399><c> person</c>
+
+00:01:03.110 --> 00:01:03.120 align:start position:0%
+car the driver is you know the person
+ 
+
+00:01:03.120 --> 00:01:05.990 align:start position:0%
+car the driver is you know the person
+behind<00:01:03.680><c> the</c><00:01:04.000><c> wheel</c><00:01:04.799><c> but</c><00:01:05.119><c> the</c><00:01:05.280><c> navigator</c><00:01:05.840><c> is</c>
+
+00:01:05.990 --> 00:01:06.000 align:start position:0%
+behind the wheel but the navigator is
+ 
+
+00:01:06.000 --> 00:01:08.310 align:start position:0%
+behind the wheel but the navigator is
+the<00:01:06.080><c> person</c><00:01:06.479><c> with</c><00:01:06.640><c> the</c><00:01:06.960><c> map</c><00:01:07.360><c> making</c><00:01:07.760><c> sure</c>
+
+00:01:08.310 --> 00:01:08.320 align:start position:0%
+the person with the map making sure
+ 
+
+00:01:08.320 --> 00:01:09.910 align:start position:0%
+the person with the map making sure
+we're<00:01:08.560><c> going</c><00:01:08.960><c> the</c><00:01:09.040><c> right</c><00:01:09.280><c> place</c><00:01:09.680><c> and</c><00:01:09.760><c> we're</c>
+
+00:01:09.910 --> 00:01:09.920 align:start position:0%
+we're going the right place and we're
+ 
+
+00:01:09.920 --> 00:01:11.590 align:start position:0%
+we're going the right place and we're
+not<00:01:10.080><c> missing</c><00:01:10.479><c> anything</c><00:01:10.880><c> i</c><00:01:11.040><c> didn't</c><00:01:11.280><c> miss</c><00:01:11.439><c> that</c>
+
+00:01:11.590 --> 00:01:11.600 align:start position:0%
+not missing anything i didn't miss that
+ 
+
+00:01:11.600 --> 00:01:13.190 align:start position:0%
+not missing anything i didn't miss that
+turn<00:01:11.920><c> over</c><00:01:12.159><c> there</c><00:01:12.479><c> that's</c><00:01:12.720><c> really</c><00:01:12.960><c> the</c>
+
+00:01:13.190 --> 00:01:13.200 align:start position:0%
+turn over there that's really the
+ 
+
+00:01:13.200 --> 00:01:16.149 align:start position:0%
+turn over there that's really the
+dynamics<00:01:13.920><c> of</c><00:01:14.320><c> pair</c><00:01:14.799><c> programming</c><00:01:15.600><c> if</c><00:01:15.759><c> you</c><00:01:15.920><c> are</c>
+
+00:01:16.149 --> 00:01:16.159 align:start position:0%
+dynamics of pair programming if you are
+ 
+
+00:01:16.159 --> 00:01:19.510 align:start position:0%
+dynamics of pair programming if you are
+less<00:01:16.400><c> skilled</c><00:01:17.119><c> i</c><00:01:17.680><c> always</c><00:01:18.080><c> recommend</c><00:01:18.640><c> kind</c><00:01:18.799><c> of</c>
+
+00:01:19.510 --> 00:01:19.520 align:start position:0%
+less skilled i always recommend kind of
+ 
+
+00:01:19.520 --> 00:01:23.429 align:start position:0%
+less skilled i always recommend kind of
+counter<00:01:20.119><c> intuitively</c><00:01:21.520><c> to</c><00:01:21.759><c> be</c><00:01:22.159><c> the</c><00:01:22.640><c> driver</c>
+
+00:01:23.429 --> 00:01:23.439 align:start position:0%
+counter intuitively to be the driver
+ 
+
+00:01:23.439 --> 00:01:25.510 align:start position:0%
+counter intuitively to be the driver
+yeah<00:01:23.680><c> to</c><00:01:23.840><c> be</c><00:01:24.000><c> the</c><00:01:24.080><c> person</c><00:01:24.479><c> coding</c><00:01:25.119><c> because</c>
+
+00:01:25.510 --> 00:01:25.520 align:start position:0%
+yeah to be the person coding because
+ 
+
+00:01:25.520 --> 00:01:27.749 align:start position:0%
+yeah to be the person coding because
+that<00:01:25.759><c> way</c><00:01:26.240><c> let's</c><00:01:26.479><c> say</c><00:01:26.880><c> you</c><00:01:27.119><c> are</c><00:01:27.280><c> practicing</c>
+
+00:01:27.749 --> 00:01:27.759 align:start position:0%
+that way let's say you are practicing
+ 
+
+00:01:27.759 --> 00:01:29.990 align:start position:0%
+that way let's say you are practicing
+javascript<00:01:28.320><c> for</c><00:01:28.400><c> the</c><00:01:28.479><c> first</c><00:01:28.799><c> time</c><00:01:29.119><c> and</c><00:01:29.520><c> you</c>
+
+00:01:29.990 --> 00:01:30.000 align:start position:0%
+javascript for the first time and you
+ 
+
+00:01:30.000 --> 00:01:33.510 align:start position:0%
+javascript for the first time and you
+are<00:01:30.400><c> kind</c><00:01:30.640><c> of</c><00:01:30.880><c> still</c><00:01:31.439><c> iffy</c><00:01:31.920><c> on</c><00:01:32.240><c> if</c><00:01:32.400><c> statements</c>
+
+00:01:33.510 --> 00:01:33.520 align:start position:0%
+are kind of still iffy on if statements
+ 
+
+00:01:33.520 --> 00:01:36.390 align:start position:0%
+are kind of still iffy on if statements
+and<00:01:33.920><c> so</c><00:01:34.560><c> you</c><00:01:35.200><c> want</c><00:01:35.520><c> to</c>
+
+00:01:36.390 --> 00:01:36.400 align:start position:0%
+and so you want to
+ 
+
+00:01:36.400 --> 00:01:38.469 align:start position:0%
+and so you want to
+have<00:01:36.640><c> that</c><00:01:36.960><c> practice</c><00:01:37.680><c> actually</c><00:01:38.079><c> coding</c>
+
+00:01:38.469 --> 00:01:38.479 align:start position:0%
+have that practice actually coding
+ 
+
+00:01:38.479 --> 00:01:40.950 align:start position:0%
+have that practice actually coding
+things<00:01:38.880><c> out</c><00:01:39.360><c> and</c><00:01:39.680><c> that</c><00:01:39.920><c> way</c><00:01:40.079><c> the</c><00:01:40.320><c> navigator</c>
+
+00:01:40.950 --> 00:01:40.960 align:start position:0%
+things out and that way the navigator
+ 
+
+00:01:40.960 --> 00:01:42.710 align:start position:0%
+things out and that way the navigator
+can<00:01:41.119><c> be</c><00:01:41.280><c> the</c><00:01:41.360><c> person</c><00:01:41.759><c> guiding</c><00:01:42.079><c> you</c><00:01:42.399><c> and</c><00:01:42.560><c> if</c>
+
+00:01:42.710 --> 00:01:42.720 align:start position:0%
+can be the person guiding you and if
+ 
+
+00:01:42.720 --> 00:01:44.870 align:start position:0%
+can be the person guiding you and if
+they're<00:01:42.960><c> the</c><00:01:43.119><c> person</c><00:01:43.520><c> more</c><00:01:43.759><c> skilled</c><00:01:44.479><c> then</c>
+
+00:01:44.870 --> 00:01:44.880 align:start position:0%
+they're the person more skilled then
+ 
+
+00:01:44.880 --> 00:01:47.350 align:start position:0%
+they're the person more skilled then
+their<00:01:45.200><c> skill</c><00:01:45.600><c> sets</c><00:01:46.240><c> are</c><00:01:46.560><c> heightened</c><00:01:47.040><c> by</c>
+
+00:01:47.350 --> 00:01:47.360 align:start position:0%
+their skill sets are heightened by
+ 
+
+00:01:47.360 --> 00:01:50.710 align:start position:0%
+their skill sets are heightened by
+having<00:01:47.680><c> to</c><00:01:47.840><c> now</c><00:01:48.159><c> explain</c><00:01:48.880><c> things</c><00:01:49.360><c> to</c><00:01:50.000><c> you</c><00:01:50.479><c> and</c>
+
+00:01:50.710 --> 00:01:50.720 align:start position:0%
+having to now explain things to you and
+ 
+
+00:01:50.720 --> 00:01:53.590 align:start position:0%
+having to now explain things to you and
+so<00:01:51.200><c> i</c><00:01:51.520><c> feel</c><00:01:51.920><c> doing</c><00:01:52.240><c> it</c><00:01:52.399><c> this</c><00:01:52.720><c> way</c><00:01:53.119><c> honestly</c>
+
+00:01:53.590 --> 00:01:53.600 align:start position:0%
+so i feel doing it this way honestly
+ 
+
+00:01:53.600 --> 00:01:55.429 align:start position:0%
+so i feel doing it this way honestly
+gives<00:01:53.840><c> you</c><00:01:54.000><c> the</c><00:01:54.159><c> best</c><00:01:54.399><c> results</c><00:01:54.880><c> for</c><00:01:55.119><c> both</c>
+
+00:01:55.429 --> 00:01:55.439 align:start position:0%
+gives you the best results for both
+ 
+
+00:01:55.439 --> 00:01:57.190 align:start position:0%
+gives you the best results for both
+people<00:01:55.759><c> because</c><00:01:56.000><c> think</c><00:01:56.240><c> about</c><00:01:56.399><c> it</c><00:01:56.719><c> if</c><00:01:56.880><c> you</c><00:01:57.119><c> are</c>
+
+00:01:57.190 --> 00:01:57.200 align:start position:0%
+people because think about it if you are
+ 
+
+00:01:57.200 --> 00:01:59.350 align:start position:0%
+people because think about it if you are
+the<00:01:57.360><c> person</c><00:01:57.840><c> more</c><00:01:58.079><c> skilled</c><00:01:58.719><c> and</c><00:01:58.880><c> you're</c><00:01:59.119><c> the</c>
+
+00:01:59.350 --> 00:01:59.360 align:start position:0%
+the person more skilled and you're the
+ 
+
+00:01:59.360 --> 00:02:00.310 align:start position:0%
+the person more skilled and you're the
+driver
+
+00:02:00.310 --> 00:02:00.320 align:start position:0%
+driver
+ 
+
+00:02:00.320 --> 00:02:02.389 align:start position:0%
+driver
+now<00:02:01.040><c> the</c><00:02:01.200><c> second</c><00:02:01.520><c> person</c><00:02:01.759><c> kind</c><00:02:01.920><c> of</c><00:02:02.159><c> is</c><00:02:02.240><c> just</c>
+
+00:02:02.389 --> 00:02:02.399 align:start position:0%
+now the second person kind of is just
+ 
+
+00:02:02.399 --> 00:02:04.630 align:start position:0%
+now the second person kind of is just
+sitting<00:02:02.719><c> there</c><00:02:02.960><c> because</c><00:02:03.439><c> the</c><00:02:03.600><c> driver</c><00:02:04.159><c> knows</c>
+
+00:02:04.630 --> 00:02:04.640 align:start position:0%
+sitting there because the driver knows
+ 
+
+00:02:04.640 --> 00:02:06.950 align:start position:0%
+sitting there because the driver knows
+all<00:02:04.960><c> there</c><00:02:05.119><c> is</c><00:02:05.280><c> to</c><00:02:05.520><c> know</c><00:02:06.079><c> well</c><00:02:06.399><c> quon</c><00:02:06.719><c> quote</c>
+
+00:02:06.950 --> 00:02:06.960 align:start position:0%
+all there is to know well quon quote
+ 
+
+00:02:06.960 --> 00:02:08.869 align:start position:0%
+all there is to know well quon quote
+there<00:02:07.119><c> really</c><00:02:07.360><c> is</c><00:02:07.520><c> never</c><00:02:08.160><c> all</c><00:02:08.319><c> there</c><00:02:08.479><c> is</c><00:02:08.640><c> no</c>
+
+00:02:08.869 --> 00:02:08.879 align:start position:0%
+there really is never all there is no
+ 
+
+00:02:08.879 --> 00:02:12.390 align:start position:0%
+there really is never all there is no
+anyway<00:02:09.440><c> so</c><00:02:09.759><c> the</c><00:02:10.000><c> driver</c><00:02:10.800><c> knows</c><00:02:11.280><c> all</c><00:02:11.520><c> this</c><00:02:11.840><c> much</c>
+
+00:02:12.390 --> 00:02:12.400 align:start position:0%
+anyway so the driver knows all this much
+ 
+
+00:02:12.400 --> 00:02:14.309 align:start position:0%
+anyway so the driver knows all this much
+and<00:02:12.800><c> they're</c><00:02:13.040><c> coating</c><00:02:13.360><c> things</c><00:02:13.680><c> out</c><00:02:13.920><c> totally</c>
+
+00:02:14.309 --> 00:02:14.319 align:start position:0%
+and they're coating things out totally
+ 
+
+00:02:14.319 --> 00:02:16.550 align:start position:0%
+and they're coating things out totally
+forgetting<00:02:15.120><c> that</c><00:02:15.440><c> you're</c><00:02:15.760><c> even</c><00:02:16.239><c> in</c><00:02:16.319><c> the</c>
+
+00:02:16.550 --> 00:02:16.560 align:start position:0%
+forgetting that you're even in the
+ 
+
+00:02:16.560 --> 00:02:18.949 align:start position:0%
+forgetting that you're even in the
+passenger<00:02:17.280><c> seat</c><00:02:17.760><c> trying</c><00:02:18.080><c> to</c><00:02:18.480><c> make</c><00:02:18.640><c> sure</c><00:02:18.879><c> that</c>
+
+00:02:18.949 --> 00:02:18.959 align:start position:0%
+passenger seat trying to make sure that
+ 
+
+00:02:18.959 --> 00:02:20.470 align:start position:0%
+passenger seat trying to make sure that
+they're<00:02:19.120><c> going</c><00:02:19.280><c> the</c><00:02:19.360><c> right</c><00:02:19.599><c> way</c><00:02:20.000><c> but</c><00:02:20.239><c> you</c><00:02:20.319><c> know</c>
+
+00:02:20.470 --> 00:02:20.480 align:start position:0%
+they're going the right way but you know
+ 
+
+00:02:20.480 --> 00:02:22.150 align:start position:0%
+they're going the right way but you know
+they're<00:02:20.720><c> going</c><00:02:20.959><c> 90</c><00:02:21.280><c> miles</c><00:02:21.599><c> an</c><00:02:21.760><c> hour</c><00:02:22.000><c> on</c><00:02:22.080><c> the</c>
+
+00:02:22.150 --> 00:02:22.160 align:start position:0%
+they're going 90 miles an hour on the
+ 
+
+00:02:22.160 --> 00:02:23.910 align:start position:0%
+they're going 90 miles an hour on the
+highway<00:02:22.560><c> so</c><00:02:22.720><c> you</c><00:02:22.800><c> can't</c><00:02:23.040><c> even</c><00:02:23.440><c> figure</c><00:02:23.680><c> out</c><00:02:23.840><c> on</c>
+
+00:02:23.910 --> 00:02:23.920 align:start position:0%
+highway so you can't even figure out on
+ 
+
+00:02:23.920 --> 00:02:25.030 align:start position:0%
+highway so you can't even figure out on
+the<00:02:24.000><c> map</c><00:02:24.239><c> where</c><00:02:24.400><c> you're</c><00:02:24.480><c> supposed</c><00:02:24.640><c> to</c><00:02:24.720><c> be</c><00:02:24.959><c> and</c>
+
+00:02:25.030 --> 00:02:25.040 align:start position:0%
+the map where you're supposed to be and
+ 
+
+00:02:25.040 --> 00:02:27.110 align:start position:0%
+the map where you're supposed to be and
+so<00:02:25.200><c> i</c><00:02:25.280><c> feel</c><00:02:25.440><c> like</c><00:02:25.599><c> doing</c><00:02:25.840><c> it</c><00:02:26.000><c> the</c><00:02:26.160><c> opposite</c><00:02:26.800><c> way</c>
+
+00:02:27.110 --> 00:02:27.120 align:start position:0%
+so i feel like doing it the opposite way
+ 
+
+00:02:27.120 --> 00:02:30.070 align:start position:0%
+so i feel like doing it the opposite way
+having<00:02:27.680><c> the</c><00:02:27.840><c> person</c><00:02:28.319><c> less</c><00:02:28.720><c> skilled</c><00:02:29.280><c> or</c><00:02:29.440><c> less</c>
+
+00:02:30.070 --> 00:02:30.080 align:start position:0%
+having the person less skilled or less
+ 
+
+00:02:30.080 --> 00:02:31.670 align:start position:0%
+having the person less skilled or less
+comfortable<00:02:30.800><c> with</c><00:02:30.959><c> what</c><00:02:31.120><c> you're</c><00:02:31.280><c> currently</c>
+
+00:02:31.670 --> 00:02:31.680 align:start position:0%
+comfortable with what you're currently
+ 
+
+00:02:31.680 --> 00:02:34.150 align:start position:0%
+comfortable with what you're currently
+working<00:02:32.000><c> on</c><00:02:32.400><c> being</c><00:02:32.640><c> the</c><00:02:32.879><c> driver</c><00:02:33.440><c> really</c><00:02:33.760><c> just</c>
+
+00:02:34.150 --> 00:02:34.160 align:start position:0%
+working on being the driver really just
+ 
+
+00:02:34.160 --> 00:02:36.949 align:start position:0%
+working on being the driver really just
+benefits<00:02:34.959><c> everybody</c><00:02:35.760><c> all</c><00:02:36.319><c> around</c><00:02:36.720><c> and</c><00:02:36.800><c> there</c>
+
+00:02:36.949 --> 00:02:36.959 align:start position:0%
+benefits everybody all around and there
+ 
+
+00:02:36.959 --> 00:02:39.350 align:start position:0%
+benefits everybody all around and there
+are<00:02:37.120><c> just</c><00:02:37.360><c> so</c><00:02:37.840><c> many</c><00:02:38.239><c> benefits</c><00:02:38.800><c> when</c><00:02:39.040><c> it</c><00:02:39.120><c> comes</c>
+
+00:02:39.350 --> 00:02:39.360 align:start position:0%
+are just so many benefits when it comes
+ 
+
+00:02:39.360 --> 00:02:41.589 align:start position:0%
+are just so many benefits when it comes
+to<00:02:39.680><c> pair</c><00:02:40.160><c> programming</c><00:02:40.640><c> one</c><00:02:41.200><c> knowledge</c>
+
+00:02:41.589 --> 00:02:41.599 align:start position:0%
+to pair programming one knowledge
+ 
+
+00:02:41.599 --> 00:02:42.790 align:start position:0%
+to pair programming one knowledge
+sharing<00:02:41.920><c> i've</c><00:02:42.080><c> talked</c><00:02:42.319><c> about</c><00:02:42.560><c> peer</c>
+
+00:02:42.790 --> 00:02:42.800 align:start position:0%
+sharing i've talked about peer
+ 
+
+00:02:42.800 --> 00:02:45.030 align:start position:0%
+sharing i've talked about peer
+programming<00:02:43.440><c> a</c><00:02:43.599><c> bit</c><00:02:43.840><c> in</c><00:02:43.920><c> the</c><00:02:44.160><c> past</c><00:02:44.640><c> saying</c><00:02:44.879><c> how</c>
+
+00:02:45.030 --> 00:02:45.040 align:start position:0%
+programming a bit in the past saying how
+ 
+
+00:02:45.040 --> 00:02:47.270 align:start position:0%
+programming a bit in the past saying how
+it's<00:02:45.280><c> a</c><00:02:45.440><c> great</c><00:02:45.840><c> way</c><00:02:46.560><c> to</c>
+
+00:02:47.270 --> 00:02:47.280 align:start position:0%
+it's a great way to
+ 
+
+00:02:47.280 --> 00:02:50.390 align:start position:0%
+it's a great way to
+figure<00:02:47.680><c> out</c><00:02:48.000><c> different</c><00:02:48.400><c> solutions</c><00:02:49.519><c> even</c><00:02:49.920><c> for</c>
+
+00:02:50.390 --> 00:02:50.400 align:start position:0%
+figure out different solutions even for
+ 
+
+00:02:50.400 --> 00:02:52.470 align:start position:0%
+figure out different solutions even for
+problems<00:02:50.959><c> and</c><00:02:51.120><c> concepts</c><00:02:51.599><c> that</c><00:02:51.840><c> you</c><00:02:52.080><c> think</c><00:02:52.319><c> you</c>
+
+00:02:52.470 --> 00:02:52.480 align:start position:0%
+problems and concepts that you think you
+ 
+
+00:02:52.480 --> 00:02:55.350 align:start position:0%
+problems and concepts that you think you
+have<00:02:53.200><c> down</c><00:02:53.680><c> now</c><00:02:53.920><c> you</c><00:02:54.160><c> see</c><00:02:54.640><c> a</c><00:02:54.800><c> different</c><00:02:55.120><c> way</c>
+
+00:02:55.350 --> 00:02:55.360 align:start position:0%
+have down now you see a different way
+ 
+
+00:02:55.360 --> 00:02:56.949 align:start position:0%
+have down now you see a different way
+you<00:02:55.599><c> could</c><00:02:55.760><c> have</c><00:02:56.000><c> coded</c><00:02:56.480><c> out</c><00:02:56.560><c> this</c><00:02:56.800><c> if</c>
+
+00:02:56.949 --> 00:02:56.959 align:start position:0%
+you could have coded out this if
+ 
+
+00:02:56.959 --> 00:02:58.550 align:start position:0%
+you could have coded out this if
+statement<00:02:57.280><c> you</c><00:02:57.360><c> see</c><00:02:57.519><c> that</c><00:02:57.840><c> you</c><00:02:57.920><c> can</c><00:02:58.159><c> actually</c>
+
+00:02:58.550 --> 00:02:58.560 align:start position:0%
+statement you see that you can actually
+ 
+
+00:02:58.560 --> 00:03:01.750 align:start position:0%
+statement you see that you can actually
+use<00:02:59.040><c> a</c><00:02:59.280><c> ternary</c><00:03:00.000><c> operator</c><00:03:00.560><c> like</c><00:03:00.959><c> what</c><00:03:01.599><c> i</c>
+
+00:03:01.750 --> 00:03:01.760 align:start position:0%
+use a ternary operator like what i
+ 
+
+00:03:01.760 --> 00:03:03.350 align:start position:0%
+use a ternary operator like what i
+didn't<00:03:02.000><c> know</c><00:03:02.239><c> this</c><00:03:02.400><c> is</c><00:03:02.560><c> the</c><00:03:02.640><c> thing</c><00:03:02.879><c> well</c><00:03:03.120><c> now</c>
+
+00:03:03.350 --> 00:03:03.360 align:start position:0%
+didn't know this is the thing well now
+ 
+
+00:03:03.360 --> 00:03:05.910 align:start position:0%
+didn't know this is the thing well now
+because<00:03:04.000><c> you</c><00:03:04.239><c> pair</c><00:03:04.560><c> programmed</c><00:03:05.360><c> this</c><00:03:05.519><c> person</c>
+
+00:03:05.910 --> 00:03:05.920 align:start position:0%
+because you pair programmed this person
+ 
+
+00:03:05.920 --> 00:03:07.830 align:start position:0%
+because you pair programmed this person
+said<00:03:06.159><c> oh</c><00:03:06.480><c> actually</c><00:03:06.800><c> we</c><00:03:06.959><c> can</c><00:03:07.120><c> just</c><00:03:07.360><c> use</c><00:03:07.599><c> this</c>
+
+00:03:07.830 --> 00:03:07.840 align:start position:0%
+said oh actually we can just use this
+ 
+
+00:03:07.840 --> 00:03:09.830 align:start position:0%
+said oh actually we can just use this
+with<00:03:08.000><c> the</c><00:03:08.159><c> one</c><00:03:08.480><c> liner</c><00:03:08.959><c> ternary</c><00:03:09.440><c> and</c><00:03:09.599><c> it's</c><00:03:09.680><c> like</c>
+
+00:03:09.830 --> 00:03:09.840 align:start position:0%
+with the one liner ternary and it's like
+ 
+
+00:03:09.840 --> 00:03:12.630 align:start position:0%
+with the one liner ternary and it's like
+oh<00:03:10.080><c> wow</c><00:03:10.640><c> i</c><00:03:10.879><c> learned</c><00:03:11.120><c> something</c><00:03:11.440><c> new</c><00:03:11.920><c> it's</c><00:03:12.159><c> also</c>
+
+00:03:12.630 --> 00:03:12.640 align:start position:0%
+oh wow i learned something new it's also
+ 
+
+00:03:12.640 --> 00:03:15.110 align:start position:0%
+oh wow i learned something new it's also
+great<00:03:12.959><c> for</c><00:03:13.280><c> getting</c><00:03:13.680><c> through</c><00:03:14.080><c> roadblocks</c>
+
+00:03:15.110 --> 00:03:15.120 align:start position:0%
+great for getting through roadblocks
+ 
+
+00:03:15.120 --> 00:03:15.990 align:start position:0%
+great for getting through roadblocks
+much
+
+00:03:15.990 --> 00:03:16.000 align:start position:0%
+much
+ 
+
+00:03:16.000 --> 00:03:18.710 align:start position:0%
+much
+quicker<00:03:16.879><c> because</c><00:03:17.120><c> yeah</c><00:03:17.440><c> now</c><00:03:17.680><c> you</c><00:03:17.920><c> have</c><00:03:18.319><c> two</c>
+
+00:03:18.710 --> 00:03:18.720 align:start position:0%
+quicker because yeah now you have two
+ 
+
+00:03:18.720 --> 00:03:21.509 align:start position:0%
+quicker because yeah now you have two
+eyes<00:03:19.200><c> on</c><00:03:19.599><c> one</c><00:03:19.920><c> project</c><00:03:20.560><c> even</c><00:03:20.959><c> if</c><00:03:21.120><c> the</c><00:03:21.280><c> other</c>
+
+00:03:21.509 --> 00:03:21.519 align:start position:0%
+eyes on one project even if the other
+ 
+
+00:03:21.519 --> 00:03:24.229 align:start position:0%
+eyes on one project even if the other
+person<00:03:21.920><c> doesn't</c><00:03:22.159><c> even</c><00:03:22.800><c> know</c><00:03:23.120><c> how</c><00:03:23.440><c> to</c><00:03:23.840><c> solve</c><00:03:24.159><c> a</c>
+
+00:03:24.229 --> 00:03:24.239 align:start position:0%
+person doesn't even know how to solve a
+ 
+
+00:03:24.239 --> 00:03:26.149 align:start position:0%
+person doesn't even know how to solve a
+certain<00:03:24.560><c> problem</c><00:03:25.040><c> just</c><00:03:25.200><c> by</c><00:03:25.440><c> having</c><00:03:25.680><c> these</c><00:03:25.920><c> two</c>
+
+00:03:26.149 --> 00:03:26.159 align:start position:0%
+certain problem just by having these two
+ 
+
+00:03:26.159 --> 00:03:28.229 align:start position:0%
+certain problem just by having these two
+heads<00:03:26.560><c> two</c><00:03:26.799><c> sets</c><00:03:27.120><c> of</c><00:03:27.440><c> eyes</c><00:03:27.840><c> looking</c><00:03:28.080><c> at</c>
+
+00:03:28.229 --> 00:03:28.239 align:start position:0%
+heads two sets of eyes looking at
+ 
+
+00:03:28.239 --> 00:03:30.309 align:start position:0%
+heads two sets of eyes looking at
+something<00:03:28.640><c> working</c><00:03:29.120><c> something</c><00:03:29.519><c> out</c><00:03:29.680><c> together</c>
+
+00:03:30.309 --> 00:03:30.319 align:start position:0%
+something working something out together
+ 
+
+00:03:30.319 --> 00:03:32.550 align:start position:0%
+something working something out together
+oh<00:03:30.480><c> my</c><00:03:30.720><c> goodness</c><00:03:31.120><c> it</c><00:03:31.280><c> can</c><00:03:31.599><c> speed</c><00:03:32.000><c> up</c><00:03:32.400><c> the</c>
+
+00:03:32.550 --> 00:03:32.560 align:start position:0%
+oh my goodness it can speed up the
+ 
+
+00:03:32.560 --> 00:03:34.949 align:start position:0%
+oh my goodness it can speed up the
+development<00:03:33.200><c> process</c><00:03:33.760><c> like</c><00:03:34.400><c> crazy</c><00:03:34.799><c> and</c>
+
+00:03:34.949 --> 00:03:34.959 align:start position:0%
+development process like crazy and
+ 
+
+00:03:34.959 --> 00:03:36.390 align:start position:0%
+development process like crazy and
+another<00:03:35.200><c> reason</c><00:03:35.519><c> to</c><00:03:35.680><c> really</c><00:03:35.920><c> take</c><00:03:36.159><c> pair</c>
+
+00:03:36.390 --> 00:03:36.400 align:start position:0%
+another reason to really take pair
+ 
+
+00:03:36.400 --> 00:03:37.990 align:start position:0%
+another reason to really take pair
+programming<00:03:36.959><c> seriously</c><00:03:37.440><c> and</c><00:03:37.599><c> i'm</c><00:03:37.760><c> speaking</c>
+
+00:03:37.990 --> 00:03:38.000 align:start position:0%
+programming seriously and i'm speaking
+ 
+
+00:03:38.000 --> 00:03:39.670 align:start position:0%
+programming seriously and i'm speaking
+to<00:03:38.080><c> y'all</c><00:03:38.400><c> who</c><00:03:38.560><c> are</c><00:03:38.799><c> trying</c><00:03:39.040><c> to</c><00:03:39.120><c> get</c><00:03:39.280><c> into</c><00:03:39.440><c> this</c>
+
+00:03:39.670 --> 00:03:39.680 align:start position:0%
+to y'all who are trying to get into this
+ 
+
+00:03:39.680 --> 00:03:41.910 align:start position:0%
+to y'all who are trying to get into this
+field<00:03:40.080><c> for</c><00:03:40.400><c> self</c><00:03:40.720><c> teaching</c><00:03:41.200><c> or</c><00:03:41.599><c> are</c><00:03:41.760><c> going</c>
+
+00:03:41.910 --> 00:03:41.920 align:start position:0%
+field for self teaching or are going
+ 
+
+00:03:41.920 --> 00:03:44.470 align:start position:0%
+field for self teaching or are going
+through<00:03:42.159><c> coding</c><00:03:42.400><c> boot</c><00:03:42.640><c> camp</c><00:03:43.200><c> y'all</c><00:03:44.080><c> you</c><00:03:44.319><c> will</c>
+
+00:03:44.470 --> 00:03:44.480 align:start position:0%
+through coding boot camp y'all you will
+ 
+
+00:03:44.480 --> 00:03:46.390 align:start position:0%
+through coding boot camp y'all you will
+be<00:03:44.640><c> pair</c><00:03:44.879><c> programming</c><00:03:45.360><c> on</c><00:03:45.519><c> the</c><00:03:45.599><c> job</c>
+
+00:03:46.390 --> 00:03:46.400 align:start position:0%
+be pair programming on the job
+ 
+
+00:03:46.400 --> 00:03:48.550 align:start position:0%
+be pair programming on the job
+yes<00:03:46.720><c> take</c><00:03:46.959><c> it</c><00:03:47.040><c> from</c><00:03:47.280><c> me</c><00:03:47.519><c> i</c><00:03:47.680><c> just</c><00:03:47.840><c> started</c><00:03:48.319><c> my</c>
+
+00:03:48.550 --> 00:03:48.560 align:start position:0%
+yes take it from me i just started my
+ 
+
+00:03:48.560 --> 00:03:51.670 align:start position:0%
+yes take it from me i just started my
+job<00:03:48.879><c> about</c><00:03:49.200><c> a</c><00:03:49.440><c> month</c><00:03:49.680><c> ago</c><00:03:50.319><c> and</c><00:03:50.720><c> i</c><00:03:50.959><c> have</c><00:03:51.200><c> already</c>
+
+00:03:51.670 --> 00:03:51.680 align:start position:0%
+job about a month ago and i have already
+ 
+
+00:03:51.680 --> 00:03:54.149 align:start position:0%
+job about a month ago and i have already
+had<00:03:51.920><c> multiple</c><00:03:52.400><c> pair</c><00:03:52.720><c> programming</c><00:03:53.439><c> sessions</c>
+
+00:03:54.149 --> 00:03:54.159 align:start position:0%
+had multiple pair programming sessions
+ 
+
+00:03:54.159 --> 00:03:56.789 align:start position:0%
+had multiple pair programming sessions
+and<00:03:54.239><c> so</c><00:03:54.480><c> it</c><00:03:54.640><c> is</c><00:03:54.959><c> so</c><00:03:55.360><c> important</c><00:03:56.239><c> to</c><00:03:56.400><c> already</c>
+
+00:03:56.789 --> 00:03:56.799 align:start position:0%
+and so it is so important to already
+ 
+
+00:03:56.799 --> 00:03:59.670 align:start position:0%
+and so it is so important to already
+feel<00:03:57.200><c> comfortable</c><00:03:57.920><c> with</c><00:03:58.319><c> the</c><00:03:58.640><c> act</c><00:03:59.200><c> itself</c>
+
+00:03:59.670 --> 00:03:59.680 align:start position:0%
+feel comfortable with the act itself
+ 
+
+00:03:59.680 --> 00:04:02.309 align:start position:0%
+feel comfortable with the act itself
+when<00:03:59.920><c> i</c><00:04:00.080><c> used</c><00:04:00.400><c> it</c><00:04:00.560><c> in</c><00:04:00.640><c> my</c><00:04:00.879><c> job</c><00:04:01.280><c> it</c><00:04:01.360><c> was</c><00:04:01.680><c> for</c><00:04:02.239><c> a</c>
+
+00:04:02.309 --> 00:04:02.319 align:start position:0%
+when i used it in my job it was for a
+ 
+
+00:04:02.319 --> 00:04:04.869 align:start position:0%
+when i used it in my job it was for a
+different<00:04:02.640><c> developer</c><00:04:03.680><c> guiding</c><00:04:04.159><c> me</c><00:04:04.400><c> through</c>
+
+00:04:04.869 --> 00:04:04.879 align:start position:0%
+different developer guiding me through
+ 
+
+00:04:04.879 --> 00:04:07.350 align:start position:0%
+different developer guiding me through
+this<00:04:05.120><c> project</c><00:04:05.519><c> i</c><00:04:05.680><c> was</c><00:04:05.840><c> put</c><00:04:06.080><c> on</c><00:04:06.319><c> because</c><00:04:07.040><c> it's</c>
+
+00:04:07.350 --> 00:04:07.360 align:start position:0%
+this project i was put on because it's
+ 
+
+00:04:07.360 --> 00:04:09.270 align:start position:0%
+this project i was put on because it's
+so<00:04:07.680><c> hard</c><00:04:08.159><c> when</c>
+
+00:04:09.270 --> 00:04:09.280 align:start position:0%
+so hard when
+ 
+
+00:04:09.280 --> 00:04:11.750 align:start position:0%
+so hard when
+you<00:04:09.599><c> i</c><00:04:09.840><c> i'm</c><00:04:10.319><c> grateful</c><00:04:10.879><c> i'm</c><00:04:11.120><c> very</c><00:04:11.280><c> grateful</c><00:04:11.599><c> to</c>
+
+00:04:11.750 --> 00:04:11.760 align:start position:0%
+you i i'm grateful i'm very grateful to
+ 
+
+00:04:11.760 --> 00:04:13.670 align:start position:0%
+you i i'm grateful i'm very grateful to
+be<00:04:11.840><c> in</c><00:04:12.000><c> this</c><00:04:12.080><c> field</c><00:04:12.480><c> and</c><00:04:12.879><c> to</c><00:04:13.040><c> be</c><00:04:13.200><c> where</c><00:04:13.360><c> i</c><00:04:13.519><c> am</c>
+
+00:04:13.670 --> 00:04:13.680 align:start position:0%
+be in this field and to be where i am
+ 
+
+00:04:13.680 --> 00:04:15.110 align:start position:0%
+be in this field and to be where i am
+but<00:04:13.840><c> y'all</c><00:04:14.239><c> it</c><00:04:14.480><c> is</c>
+
+00:04:15.110 --> 00:04:15.120 align:start position:0%
+but y'all it is
+ 
+
+00:04:15.120 --> 00:04:16.469 align:start position:0%
+but y'all it is
+difficult
+
+00:04:16.469 --> 00:04:16.479 align:start position:0%
+difficult
+ 
+
+00:04:16.479 --> 00:04:18.870 align:start position:0%
+difficult
+entering<00:04:17.120><c> a</c><00:04:17.280><c> new</c><00:04:17.600><c> team</c>
+
+00:04:18.870 --> 00:04:18.880 align:start position:0%
+entering a new team
+ 
+
+00:04:18.880 --> 00:04:21.270 align:start position:0%
+entering a new team
+and<00:04:19.519><c> you</c><00:04:19.759><c> are</c><00:04:19.919><c> now</c><00:04:20.160><c> on</c><00:04:20.320><c> projects</c><00:04:20.720><c> that</c><00:04:20.959><c> have</c>
+
+00:04:21.270 --> 00:04:21.280 align:start position:0%
+and you are now on projects that have
+ 
+
+00:04:21.280 --> 00:04:23.749 align:start position:0%
+and you are now on projects that have
+been<00:04:21.600><c> there</c><00:04:22.240><c> been</c><00:04:22.479><c> there</c><00:04:22.880><c> long</c><00:04:23.199><c> before</c><00:04:23.520><c> you</c>
+
+00:04:23.749 --> 00:04:23.759 align:start position:0%
+been there been there long before you
+ 
+
+00:04:23.759 --> 00:04:26.310 align:start position:0%
+been there been there long before you
+even<00:04:24.320><c> were</c><00:04:24.560><c> a</c><00:04:24.720><c> thought</c><00:04:25.440><c> and</c><00:04:25.680><c> so</c><00:04:25.919><c> now</c><00:04:26.080><c> you</c><00:04:26.240><c> have</c>
+
+00:04:26.310 --> 00:04:26.320 align:start position:0%
+even were a thought and so now you have
+ 
+
+00:04:26.320 --> 00:04:28.469 align:start position:0%
+even were a thought and so now you have
+to<00:04:26.479><c> figure</c><00:04:26.800><c> out</c><00:04:27.120><c> okay</c><00:04:27.600><c> what</c><00:04:27.840><c> is</c><00:04:27.919><c> this</c><00:04:28.160><c> code</c>
+
+00:04:28.469 --> 00:04:28.479 align:start position:0%
+to figure out okay what is this code
+ 
+
+00:04:28.479 --> 00:04:30.710 align:start position:0%
+to figure out okay what is this code
+doing<00:04:29.040><c> what</c><00:04:29.360><c> are</c><00:04:29.440><c> the</c><00:04:29.680><c> functions</c><00:04:30.080><c> being</c><00:04:30.400><c> used</c>
+
+00:04:30.710 --> 00:04:30.720 align:start position:0%
+doing what are the functions being used
+ 
+
+00:04:30.720 --> 00:04:33.670 align:start position:0%
+doing what are the functions being used
+what<00:04:30.960><c> is</c><00:04:31.360><c> the</c><00:04:31.600><c> standard</c><00:04:32.080><c> of</c><00:04:32.240><c> coding</c><00:04:32.720><c> it's</c><00:04:33.360><c> a</c>
+
+00:04:33.670 --> 00:04:33.680 align:start position:0%
+what is the standard of coding it's a
+ 
+
+00:04:33.680 --> 00:04:35.670 align:start position:0%
+what is the standard of coding it's a
+lot<00:04:34.320><c> rather</c><00:04:34.720><c> than</c><00:04:35.040><c> going</c><00:04:35.199><c> through</c><00:04:35.360><c> a</c><00:04:35.440><c> coding</c>
+
+00:04:35.670 --> 00:04:35.680 align:start position:0%
+lot rather than going through a coding
+ 
+
+00:04:35.680 --> 00:04:38.070 align:start position:0%
+lot rather than going through a coding
+bootcamp<00:04:36.000><c> for</c><00:04:36.160><c> self-teaching</c><00:04:37.360><c> you</c><00:04:37.520><c> kind</c><00:04:37.759><c> of</c>
+
+00:04:38.070 --> 00:04:38.080 align:start position:0%
+bootcamp for self-teaching you kind of
+ 
+
+00:04:38.080 --> 00:04:40.150 align:start position:0%
+bootcamp for self-teaching you kind of
+are<00:04:38.479><c> building</c><00:04:38.880><c> these</c><00:04:39.120><c> projects</c><00:04:39.520><c> from</c><00:04:39.759><c> ground</c>
+
+00:04:40.150 --> 00:04:40.160 align:start position:0%
+are building these projects from ground
+ 
+
+00:04:40.160 --> 00:04:41.270 align:start position:0%
+are building these projects from ground
+zero<00:04:40.560><c> you</c><00:04:40.720><c> know</c><00:04:40.800><c> what</c><00:04:40.880><c> i</c><00:04:40.960><c> mean</c><00:04:41.120><c> you're</c>
+
+00:04:41.270 --> 00:04:41.280 align:start position:0%
+zero you know what i mean you're
+ 
+
+00:04:41.280 --> 00:04:42.710 align:start position:0%
+zero you know what i mean you're
+building<00:04:41.600><c> these</c><00:04:41.919><c> apps</c><00:04:42.160><c> building</c><00:04:42.479><c> these</c>
+
+00:04:42.710 --> 00:04:42.720 align:start position:0%
+building these apps building these
+ 
+
+00:04:42.720 --> 00:04:45.270 align:start position:0%
+building these apps building these
+projects<00:04:43.280><c> from</c><00:04:43.520><c> ground</c><00:04:43.840><c> to</c><00:04:44.000><c> zero</c><00:04:44.400><c> and</c><00:04:44.560><c> so</c><00:04:45.040><c> you</c>
+
+00:04:45.270 --> 00:04:45.280 align:start position:0%
+projects from ground to zero and so you
+ 
+
+00:04:45.280 --> 00:04:47.189 align:start position:0%
+projects from ground to zero and so you
+are<00:04:45.520><c> there</c><00:04:45.759><c> throughout</c><00:04:46.080><c> the</c><00:04:46.160><c> entire</c><00:04:46.560><c> process</c>
+
+00:04:47.189 --> 00:04:47.199 align:start position:0%
+are there throughout the entire process
+ 
+
+00:04:47.199 --> 00:04:49.189 align:start position:0%
+are there throughout the entire process
+but<00:04:47.360><c> when</c><00:04:47.520><c> you're</c><00:04:47.759><c> on</c><00:04:48.000><c> a</c><00:04:48.160><c> team</c><00:04:48.479><c> and</c><00:04:48.639><c> you</c><00:04:48.880><c> get</c><00:04:49.120><c> on</c>
+
+00:04:49.189 --> 00:04:49.199 align:start position:0%
+but when you're on a team and you get on
+ 
+
+00:04:49.199 --> 00:04:51.270 align:start position:0%
+but when you're on a team and you get on
+a<00:04:49.280><c> team</c><00:04:49.520><c> for</c><00:04:49.680><c> the</c><00:04:49.759><c> first</c><00:04:50.080><c> time</c><00:04:50.639><c> you</c><00:04:51.040><c> are</c>
+
+00:04:51.270 --> 00:04:51.280 align:start position:0%
+a team for the first time you are
+ 
+
+00:04:51.280 --> 00:04:53.990 align:start position:0%
+a team for the first time you are
+starting<00:04:52.080><c> from</c><00:04:52.639><c> the</c><00:04:52.800><c> top</c><00:04:53.120><c> of</c><00:04:53.280><c> the</c><00:04:53.440><c> mountain</c>
+
+00:04:53.990 --> 00:04:54.000 align:start position:0%
+starting from the top of the mountain
+ 
+
+00:04:54.000 --> 00:04:55.350 align:start position:0%
+starting from the top of the mountain
+and<00:04:54.240><c> you</c><00:04:54.400><c> don't</c><00:04:54.479><c> know</c><00:04:54.639><c> how</c><00:04:54.800><c> you</c><00:04:54.880><c> got</c><00:04:55.040><c> that</c><00:04:55.199><c> you</c>
+
+00:04:55.350 --> 00:04:55.360 align:start position:0%
+and you don't know how you got that you
+ 
+
+00:04:55.360 --> 00:04:56.629 align:start position:0%
+and you don't know how you got that you
+just<00:04:55.520><c> got</c><00:04:55.680><c> dropped</c><00:04:55.919><c> to</c><00:04:56.000><c> the</c><00:04:56.080><c> top</c><00:04:56.320><c> and</c><00:04:56.479><c> i</c><00:04:56.560><c> was</c>
+
+00:04:56.629 --> 00:04:56.639 align:start position:0%
+just got dropped to the top and i was
+ 
+
+00:04:56.639 --> 00:05:00.710 align:start position:0%
+just got dropped to the top and i was
+like<00:04:56.800><c> okay</c><00:04:57.360><c> climb</c><00:04:58.000><c> and</c><00:04:58.320><c> so</c><00:04:58.800><c> it</c><00:04:59.280><c> gets</c><00:04:59.759><c> difficult</c>
+
+00:05:00.710 --> 00:05:00.720 align:start position:0%
+like okay climb and so it gets difficult
+ 
+
+00:05:00.720 --> 00:05:02.950 align:start position:0%
+like okay climb and so it gets difficult
+and<00:05:00.880><c> so</c><00:05:01.039><c> that's</c><00:05:01.440><c> where</c><00:05:01.759><c> pair</c><00:05:02.000><c> programming</c><00:05:02.639><c> at</c>
+
+00:05:02.950 --> 00:05:02.960 align:start position:0%
+and so that's where pair programming at
+ 
+
+00:05:02.960 --> 00:05:05.430 align:start position:0%
+and so that's where pair programming at
+work<00:05:03.280><c> really</c><00:05:03.600><c> takes</c><00:05:03.840><c> place</c><00:05:04.160><c> for</c><00:05:04.400><c> me</c><00:05:04.720><c> at</c><00:05:04.880><c> least</c>
+
+00:05:05.430 --> 00:05:05.440 align:start position:0%
+work really takes place for me at least
+ 
+
+00:05:05.440 --> 00:05:07.830 align:start position:0%
+work really takes place for me at least
+is<00:05:05.680><c> when</c><00:05:06.080><c> it's</c><00:05:06.240><c> like</c><00:05:06.400><c> okay</c><00:05:06.960><c> here</c><00:05:07.199><c> is</c><00:05:07.360><c> how</c><00:05:07.680><c> we</c>
+
+00:05:07.830 --> 00:05:07.840 align:start position:0%
+is when it's like okay here is how we
+ 
+
+00:05:07.840 --> 00:05:09.670 align:start position:0%
+is when it's like okay here is how we
+are<00:05:08.000><c> setting</c><00:05:08.320><c> up</c><00:05:08.479><c> the</c><00:05:08.639><c> stage</c><00:05:09.120><c> for</c><00:05:09.360><c> what</c><00:05:09.520><c> you're</c>
+
+00:05:09.670 --> 00:05:09.680 align:start position:0%
+are setting up the stage for what you're
+ 
+
+00:05:09.680 --> 00:05:11.270 align:start position:0%
+are setting up the stage for what you're
+going<00:05:09.840><c> to</c><00:05:09.919><c> be</c><00:05:10.080><c> working</c><00:05:10.400><c> on</c><00:05:10.800><c> let's</c><00:05:11.039><c> pair</c>
+
+00:05:11.270 --> 00:05:11.280 align:start position:0%
+going to be working on let's pair
+ 
+
+00:05:11.280 --> 00:05:13.670 align:start position:0%
+going to be working on let's pair
+program<00:05:11.840><c> for</c><00:05:12.080><c> the</c><00:05:12.320><c> next</c><00:05:12.960><c> hour</c><00:05:13.199><c> so</c><00:05:13.360><c> you</c><00:05:13.520><c> get</c>
+
+00:05:13.670 --> 00:05:13.680 align:start position:0%
+program for the next hour so you get
+ 
+
+00:05:13.680 --> 00:05:15.590 align:start position:0%
+program for the next hour so you get
+comfortable<00:05:14.400><c> with</c><00:05:14.639><c> our</c><00:05:14.800><c> systems</c><00:05:15.280><c> with</c><00:05:15.440><c> this</c>
+
+00:05:15.590 --> 00:05:15.600 align:start position:0%
+comfortable with our systems with this
+ 
+
+00:05:15.600 --> 00:05:17.670 align:start position:0%
+comfortable with our systems with this
+new<00:05:15.840><c> language</c><00:05:16.160><c> you're</c><00:05:16.320><c> learning</c><00:05:16.880><c> and</c><00:05:17.280><c> with</c>
+
+00:05:17.670 --> 00:05:17.680 align:start position:0%
+new language you're learning and with
+ 
+
+00:05:17.680 --> 00:05:19.990 align:start position:0%
+new language you're learning and with
+simply<00:05:18.400><c> how</c><00:05:18.720><c> we</c><00:05:18.960><c> code</c><00:05:19.360><c> that's</c><00:05:19.600><c> repair</c>
+
+00:05:19.990 --> 00:05:20.000 align:start position:0%
+simply how we code that's repair
+ 
+
+00:05:20.000 --> 00:05:21.830 align:start position:0%
+simply how we code that's repair
+programming<00:05:20.479><c> comes</c><00:05:20.880><c> in</c><00:05:21.120><c> getting</c><00:05:21.360><c> you</c><00:05:21.520><c> more</c>
+
+00:05:21.830 --> 00:05:21.840 align:start position:0%
+programming comes in getting you more
+ 
+
+00:05:21.840 --> 00:05:24.550 align:start position:0%
+programming comes in getting you more
+comfortable<00:05:22.639><c> with</c><00:05:22.960><c> coding</c><00:05:23.440><c> on</c><00:05:23.759><c> this</c><00:05:24.160><c> team</c><00:05:24.479><c> and</c>
+
+00:05:24.550 --> 00:05:24.560 align:start position:0%
+comfortable with coding on this team and
+ 
+
+00:05:24.560 --> 00:05:26.550 align:start position:0%
+comfortable with coding on this team and
+so<00:05:24.800><c> that's</c><00:05:25.039><c> why</c><00:05:25.280><c> i</c><00:05:25.440><c> had</c><00:05:25.680><c> done</c><00:05:25.840><c> it</c><00:05:26.080><c> actually</c>
+
+00:05:26.550 --> 00:05:26.560 align:start position:0%
+so that's why i had done it actually
+ 
+
+00:05:26.560 --> 00:05:29.670 align:start position:0%
+so that's why i had done it actually
+yesterday<00:05:27.440><c> and</c><00:05:27.759><c> about</c><00:05:28.080><c> two</c><00:05:28.400><c> weeks</c><00:05:28.720><c> ago</c><00:05:29.360><c> and</c><00:05:29.520><c> so</c>
+
+00:05:29.670 --> 00:05:29.680 align:start position:0%
+yesterday and about two weeks ago and so
+ 
+
+00:05:29.680 --> 00:05:32.070 align:start position:0%
+yesterday and about two weeks ago and so
+it's<00:05:30.160><c> important</c><00:05:30.639><c> that</c><00:05:31.199><c> you</c><00:05:31.440><c> already</c><00:05:31.840><c> feel</c>
+
+00:05:32.070 --> 00:05:32.080 align:start position:0%
+it's important that you already feel
+ 
+
+00:05:32.080 --> 00:05:33.830 align:start position:0%
+it's important that you already feel
+comfortable<00:05:32.880><c> doing</c><00:05:33.199><c> it</c><00:05:33.360><c> you</c><00:05:33.440><c> want</c><00:05:33.600><c> to</c><00:05:33.680><c> have</c>
+
+00:05:33.830 --> 00:05:33.840 align:start position:0%
+comfortable doing it you want to have
+ 
+
+00:05:33.840 --> 00:05:36.150 align:start position:0%
+comfortable doing it you want to have
+that<00:05:34.080><c> practice</c><00:05:34.560><c> of</c><00:05:34.960><c> turning</c><00:05:35.360><c> what</c><00:05:35.600><c> another</c>
+
+00:05:36.150 --> 00:05:36.160 align:start position:0%
+that practice of turning what another
+ 
+
+00:05:36.160 --> 00:05:39.749 align:start position:0%
+that practice of turning what another
+person<00:05:36.639><c> is</c><00:05:36.880><c> saying</c><00:05:37.199><c> to</c><00:05:37.360><c> you</c><00:05:38.000><c> into</c><00:05:38.880><c> code</c><00:05:39.360><c> and</c>
+
+00:05:39.749 --> 00:05:39.759 align:start position:0%
+person is saying to you into code and
+ 
+
+00:05:39.759 --> 00:05:41.430 align:start position:0%
+person is saying to you into code and
+being<00:05:40.000><c> comfortable</c><00:05:40.479><c> with</c><00:05:40.639><c> that</c><00:05:40.960><c> back</c><00:05:41.280><c> and</c>
+
+00:05:41.430 --> 00:05:41.440 align:start position:0%
+being comfortable with that back and
+ 
+
+00:05:41.440 --> 00:05:43.430 align:start position:0%
+being comfortable with that back and
+forth<00:05:41.759><c> and</c><00:05:41.840><c> then</c><00:05:42.240><c> also</c><00:05:42.479><c> flipping</c><00:05:42.880><c> it</c><00:05:43.039><c> of</c>
+
+00:05:43.430 --> 00:05:43.440 align:start position:0%
+forth and then also flipping it of
+ 
+
+00:05:43.440 --> 00:05:46.390 align:start position:0%
+forth and then also flipping it of
+testing<00:05:43.840><c> your</c><00:05:44.320><c> own</c><00:05:44.720><c> knowledge</c><00:05:45.520><c> by</c><00:05:45.919><c> being</c><00:05:46.160><c> the</c>
+
+00:05:46.390 --> 00:05:46.400 align:start position:0%
+testing your own knowledge by being the
+ 
+
+00:05:46.400 --> 00:05:49.189 align:start position:0%
+testing your own knowledge by being the
+navigator<00:05:47.120><c> to</c><00:05:47.280><c> someone</c><00:05:47.840><c> else</c><00:05:48.320><c> because</c><00:05:48.800><c> y'all</c>
+
+00:05:49.189 --> 00:05:49.199 align:start position:0%
+navigator to someone else because y'all
+ 
+
+00:05:49.199 --> 00:05:51.110 align:start position:0%
+navigator to someone else because y'all
+i'm<00:05:49.360><c> sure</c><00:05:49.600><c> we</c><00:05:49.759><c> all</c><00:05:49.919><c> know</c><00:05:50.400><c> one</c><00:05:50.560><c> of</c><00:05:50.720><c> the</c><00:05:50.800><c> best</c>
+
+00:05:51.110 --> 00:05:51.120 align:start position:0%
+i'm sure we all know one of the best
+ 
+
+00:05:51.120 --> 00:05:54.390 align:start position:0%
+i'm sure we all know one of the best
+ways<00:05:51.440><c> to</c><00:05:51.600><c> learn</c><00:05:52.320><c> is</c><00:05:52.400><c> to</c><00:05:52.639><c> teach</c><00:05:53.120><c> it</c><00:05:53.440><c> is</c><00:05:53.600><c> to</c><00:05:53.919><c> teach</c>
+
+00:05:54.390 --> 00:05:54.400 align:start position:0%
+ways to learn is to teach it is to teach
+ 
+
+00:05:54.400 --> 00:05:56.150 align:start position:0%
+ways to learn is to teach it is to teach
+and<00:05:54.639><c> it's</c><00:05:54.800><c> a</c><00:05:54.960><c> great</c><00:05:55.199><c> way</c><00:05:55.360><c> to</c><00:05:55.600><c> see</c><00:05:55.759><c> where</c><00:05:55.919><c> you're</c>
+
+00:05:56.150 --> 00:05:56.160 align:start position:0%
+and it's a great way to see where you're
+ 
+
+00:05:56.160 --> 00:05:57.270 align:start position:0%
+and it's a great way to see where you're
+at<00:05:56.240><c> with</c><00:05:56.400><c> something</c><00:05:56.720><c> do</c><00:05:56.880><c> you</c><00:05:57.039><c> really</c>
+
+00:05:57.270 --> 00:05:57.280 align:start position:0%
+at with something do you really
+ 
+
+00:05:57.280 --> 00:05:59.029 align:start position:0%
+at with something do you really
+understand<00:05:57.759><c> it</c><00:05:58.080><c> because</c><00:05:58.479><c> if</c><00:05:58.720><c> you</c><00:05:58.880><c> don't</c>
+
+00:05:59.029 --> 00:05:59.039 align:start position:0%
+understand it because if you don't
+ 
+
+00:05:59.039 --> 00:06:01.029 align:start position:0%
+understand it because if you don't
+really<00:05:59.280><c> understand</c><00:05:59.680><c> it</c><00:05:59.759><c> you'll</c><00:06:00.000><c> see</c><00:06:00.240><c> it</c><00:06:00.800><c> when</c>
+
+00:06:01.029 --> 00:06:01.039 align:start position:0%
+really understand it you'll see it when
+ 
+
+00:06:01.039 --> 00:06:03.430 align:start position:0%
+really understand it you'll see it when
+you<00:06:01.280><c> try</c><00:06:01.440><c> to</c><00:06:01.600><c> explain</c><00:06:02.000><c> it</c><00:06:02.080><c> to</c><00:06:02.240><c> another</c><00:06:02.960><c> person</c>
+
+00:06:03.430 --> 00:06:03.440 align:start position:0%
+you try to explain it to another person
+ 
+
+00:06:03.440 --> 00:06:05.830 align:start position:0%
+you try to explain it to another person
+and<00:06:03.600><c> so</c><00:06:04.000><c> it's</c><00:06:04.160><c> a</c><00:06:04.319><c> great</c><00:06:04.560><c> way</c><00:06:04.800><c> to</c><00:06:05.039><c> just</c><00:06:05.440><c> increase</c>
+
+00:06:05.830 --> 00:06:05.840 align:start position:0%
+and so it's a great way to just increase
+ 
+
+00:06:05.840 --> 00:06:08.390 align:start position:0%
+and so it's a great way to just increase
+your<00:06:06.080><c> knowledge</c><00:06:06.560><c> so</c><00:06:06.800><c> so</c><00:06:07.120><c> much</c><00:06:07.440><c> and</c><00:06:07.680><c> so</c><00:06:08.160><c> let's</c>
+
+00:06:08.390 --> 00:06:08.400 align:start position:0%
+your knowledge so so much and so let's
+ 
+
+00:06:08.400 --> 00:06:11.029 align:start position:0%
+your knowledge so so much and so let's
+go<00:06:08.720><c> into</c><00:06:09.360><c> tools</c><00:06:09.759><c> so</c><00:06:09.919><c> the</c><00:06:10.000><c> very</c><00:06:10.240><c> first</c><00:06:10.479><c> tool</c><00:06:10.800><c> i'm</c>
+
+00:06:11.029 --> 00:06:11.039 align:start position:0%
+go into tools so the very first tool i'm
+ 
+
+00:06:11.039 --> 00:06:12.150 align:start position:0%
+go into tools so the very first tool i'm
+going<00:06:11.199><c> to</c><00:06:11.280><c> be</c><00:06:11.360><c> talking</c><00:06:11.600><c> about</c><00:06:11.759><c> and</c><00:06:11.840><c> the</c><00:06:11.919><c> one</c>
+
+00:06:12.150 --> 00:06:12.160 align:start position:0%
+going to be talking about and the one
+ 
+
+00:06:12.160 --> 00:06:14.870 align:start position:0%
+going to be talking about and the one
+i'm<00:06:12.319><c> most</c><00:06:12.639><c> excited</c><00:06:13.280><c> to</c><00:06:13.440><c> talk</c><00:06:13.680><c> about</c><00:06:14.000><c> is</c><00:06:14.479><c> coast</c>
+
+00:06:14.870 --> 00:06:14.880 align:start position:0%
+i'm most excited to talk about is coast
+ 
+
+00:06:14.880 --> 00:06:16.469 align:start position:0%
+i'm most excited to talk about is coast
+green<00:06:15.280><c> coast</c><00:06:15.520><c> korea</c><00:06:15.840><c> is</c><00:06:15.919><c> a</c><00:06:16.000><c> collaborative</c>
+
+00:06:16.469 --> 00:06:16.479 align:start position:0%
+green coast korea is a collaborative
+ 
+
+00:06:16.479 --> 00:06:18.870 align:start position:0%
+green coast korea is a collaborative
+screen<00:06:16.880><c> sharing</c><00:06:17.280><c> and</c><00:06:17.360><c> video</c><00:06:17.759><c> chat</c><00:06:18.160><c> tool</c><00:06:18.639><c> it's</c>
+
+00:06:18.870 --> 00:06:18.880 align:start position:0%
+screen sharing and video chat tool it's
+ 
+
+00:06:18.880 --> 00:06:21.510 align:start position:0%
+screen sharing and video chat tool it's
+amazing<00:06:19.520><c> for</c><00:06:19.840><c> pair</c><00:06:20.160><c> programming</c><00:06:20.880><c> and</c><00:06:21.039><c> also</c>
+
+00:06:21.510 --> 00:06:21.520 align:start position:0%
+amazing for pair programming and also
+ 
+
+00:06:21.520 --> 00:06:24.469 align:start position:0%
+amazing for pair programming and also
+group<00:06:22.000><c> programming</c><00:06:22.560><c> sessions</c><00:06:23.199><c> because</c><00:06:24.160><c> you</c>
+
+00:06:24.469 --> 00:06:24.479 align:start position:0%
+group programming sessions because you
+ 
+
+00:06:24.479 --> 00:06:26.469 align:start position:0%
+group programming sessions because you
+all<00:06:24.800><c> can</c><00:06:25.199><c> not</c><00:06:25.360><c> only</c><00:06:25.680><c> share</c><00:06:25.840><c> your</c><00:06:26.000><c> screen</c>
+
+00:06:26.469 --> 00:06:26.479 align:start position:0%
+all can not only share your screen
+ 
+
+00:06:26.479 --> 00:06:28.629 align:start position:0%
+all can not only share your screen
+that's<00:06:26.880><c> like</c><00:06:27.120><c> not</c><00:06:27.360><c> even</c><00:06:27.600><c> the</c><00:06:27.680><c> fun</c><00:06:27.840><c> part</c><00:06:28.479><c> not</c>
+
+00:06:28.629 --> 00:06:28.639 align:start position:0%
+that's like not even the fun part not
+ 
+
+00:06:28.639 --> 00:06:30.469 align:start position:0%
+that's like not even the fun part not
+only<00:06:28.880><c> share</c><00:06:29.039><c> your</c><00:06:29.199><c> screen</c><00:06:29.520><c> but</c><00:06:29.759><c> now</c><00:06:30.080><c> that</c><00:06:30.240><c> this</c>
+
+00:06:30.469 --> 00:06:30.479 align:start position:0%
+only share your screen but now that this
+ 
+
+00:06:30.479 --> 00:06:32.870 align:start position:0%
+only share your screen but now that this
+person<00:06:30.720><c> has</c><00:06:30.880><c> shared</c><00:06:31.199><c> their</c><00:06:31.440><c> screen</c><00:06:32.080><c> you</c><00:06:32.319><c> can</c>
+
+00:06:32.870 --> 00:06:32.880 align:start position:0%
+person has shared their screen you can
+ 
+
+00:06:32.880 --> 00:06:36.150 align:start position:0%
+person has shared their screen you can
+grab<00:06:33.520><c> onto</c><00:06:34.240><c> their</c><00:06:34.560><c> screen</c><00:06:34.960><c> you</c><00:06:35.120><c> can</c><00:06:35.520><c> type</c><00:06:35.919><c> into</c>
+
+00:06:36.150 --> 00:06:36.160 align:start position:0%
+grab onto their screen you can type into
+ 
+
+00:06:36.160 --> 00:06:38.710 align:start position:0%
+grab onto their screen you can type into
+their<00:06:36.400><c> screen</c><00:06:36.800><c> if</c><00:06:37.039><c> somebody</c><00:06:37.680><c> else</c><00:06:38.080><c> pulls</c><00:06:38.400><c> up</c><00:06:38.560><c> a</c>
+
+00:06:38.710 --> 00:06:38.720 align:start position:0%
+their screen if somebody else pulls up a
+ 
+
+00:06:38.720 --> 00:06:41.189 align:start position:0%
+their screen if somebody else pulls up a
+browser<00:06:39.199><c> and</c><00:06:39.360><c> shares</c><00:06:39.680><c> that</c><00:06:39.919><c> browser</c><00:06:40.639><c> now</c><00:06:41.039><c> i</c>
+
+00:06:41.189 --> 00:06:41.199 align:start position:0%
+browser and shares that browser now i
+ 
+
+00:06:41.199 --> 00:06:42.550 align:start position:0%
+browser and shares that browser now i
+can<00:06:41.360><c> go</c><00:06:41.520><c> into</c><00:06:41.680><c> the</c><00:06:41.840><c> browser</c><00:06:42.160><c> and</c><00:06:42.240><c> be</c><00:06:42.400><c> like</c>
+
+00:06:42.550 --> 00:06:42.560 align:start position:0%
+can go into the browser and be like
+ 
+
+00:06:42.560 --> 00:06:45.189 align:start position:0%
+can go into the browser and be like
+actually<00:06:43.039><c> let's</c><00:06:43.280><c> go</c><00:06:43.520><c> to</c><00:06:43.840><c> github</c><00:06:44.479><c> instead</c><00:06:45.039><c> and</c>
+
+00:06:45.189 --> 00:06:45.199 align:start position:0%
+actually let's go to github instead and
+ 
+
+00:06:45.199 --> 00:06:47.510 align:start position:0%
+actually let's go to github instead and
+type<00:06:45.520><c> that</c><00:06:45.840><c> in</c><00:06:46.240><c> and</c><00:06:46.479><c> it's</c><00:06:46.720><c> on</c><00:06:46.880><c> their</c><00:06:47.120><c> browser</c>
+
+00:06:47.510 --> 00:06:47.520 align:start position:0%
+type that in and it's on their browser
+ 
+
+00:06:47.520 --> 00:06:49.749 align:start position:0%
+type that in and it's on their browser
+but<00:06:47.680><c> here</c><00:06:47.919><c> i</c><00:06:48.080><c> am</c><00:06:48.240><c> manipulating</c><00:06:49.199><c> it</c><00:06:49.440><c> and</c><00:06:49.520><c> so</c>
+
+00:06:49.749 --> 00:06:49.759 align:start position:0%
+but here i am manipulating it and so
+ 
+
+00:06:49.759 --> 00:06:51.510 align:start position:0%
+but here i am manipulating it and so
+that's<00:06:49.919><c> why</c><00:06:50.080><c> it's</c><00:06:50.240><c> so</c><00:06:50.560><c> amazing</c><00:06:50.960><c> for</c><00:06:51.199><c> pair</c>
+
+00:06:51.510 --> 00:06:51.520 align:start position:0%
+that's why it's so amazing for pair
+ 
+
+00:06:51.520 --> 00:06:53.430 align:start position:0%
+that's why it's so amazing for pair
+programming<00:06:52.080><c> because</c><00:06:52.319><c> you</c><00:06:52.479><c> have</c><00:06:52.639><c> vs</c><00:06:52.960><c> code</c><00:06:53.280><c> up</c>
+
+00:06:53.430 --> 00:06:53.440 align:start position:0%
+programming because you have vs code up
+ 
+
+00:06:53.440 --> 00:06:55.830 align:start position:0%
+programming because you have vs code up
+you<00:06:53.520><c> have</c><00:06:53.680><c> your</c><00:06:53.840><c> driver</c><00:06:54.479><c> navigator</c><00:06:55.360><c> so</c><00:06:55.599><c> your</c>
+
+00:06:55.830 --> 00:06:55.840 align:start position:0%
+you have your driver navigator so your
+ 
+
+00:06:55.840 --> 00:06:58.150 align:start position:0%
+you have your driver navigator so your
+driver<00:06:56.319><c> is</c><00:06:56.800><c> coding</c><00:06:57.199><c> things</c><00:06:57.520><c> out</c><00:06:57.759><c> you're</c><00:06:58.000><c> the</c>
+
+00:06:58.150 --> 00:06:58.160 align:start position:0%
+driver is coding things out you're the
+ 
+
+00:06:58.160 --> 00:07:00.230 align:start position:0%
+driver is coding things out you're the
+navigator<00:06:58.720><c> you're</c><00:06:58.880><c> in</c><00:06:59.120><c> charge</c><00:06:59.599><c> of</c><00:06:59.759><c> scoping</c>
+
+00:07:00.230 --> 00:07:00.240 align:start position:0%
+navigator you're in charge of scoping
+ 
+
+00:07:00.240 --> 00:07:01.990 align:start position:0%
+navigator you're in charge of scoping
+out<00:07:00.400><c> the</c><00:07:00.560><c> scene</c><00:07:00.880><c> making</c><00:07:01.120><c> sure</c><00:07:01.440><c> all's</c><00:07:01.680><c> good</c>
+
+00:07:01.990 --> 00:07:02.000 align:start position:0%
+out the scene making sure all's good
+ 
+
+00:07:02.000 --> 00:07:05.110 align:start position:0%
+out the scene making sure all's good
+other<00:07:02.240><c> typos</c><00:07:03.039><c> are</c><00:07:03.199><c> their</c><00:07:03.759><c> broken</c><00:07:04.319><c> statements</c>
+
+00:07:05.110 --> 00:07:05.120 align:start position:0%
+other typos are their broken statements
+ 
+
+00:07:05.120 --> 00:07:07.110 align:start position:0%
+other typos are their broken statements
+and<00:07:05.440><c> if</c><00:07:05.599><c> you</c><00:07:05.759><c> spot</c><00:07:06.160><c> those</c><00:07:06.400><c> let's</c><00:07:06.560><c> say</c><00:07:06.720><c> you</c><00:07:06.800><c> spot</c>
+
+00:07:07.110 --> 00:07:07.120 align:start position:0%
+and if you spot those let's say you spot
+ 
+
+00:07:07.120 --> 00:07:09.029 align:start position:0%
+and if you spot those let's say you spot
+a<00:07:07.199><c> typo</c><00:07:07.599><c> like</c><00:07:07.840><c> nothing</c><00:07:08.400><c> crazy</c><00:07:08.720><c> that</c><00:07:08.880><c> you</c>
+
+00:07:09.029 --> 00:07:09.039 align:start position:0%
+a typo like nothing crazy that you
+ 
+
+00:07:09.039 --> 00:07:11.510 align:start position:0%
+a typo like nothing crazy that you
+really<00:07:09.199><c> need</c><00:07:09.360><c> to</c><00:07:09.599><c> alert</c><00:07:10.080><c> your</c><00:07:10.319><c> driver</c><00:07:10.800><c> about</c>
+
+00:07:11.510 --> 00:07:11.520 align:start position:0%
+really need to alert your driver about
+ 
+
+00:07:11.520 --> 00:07:14.790 align:start position:0%
+really need to alert your driver about
+so<00:07:11.840><c> you</c><00:07:12.000><c> just</c><00:07:12.400><c> go</c><00:07:12.800><c> in</c><00:07:13.360><c> and</c><00:07:13.919><c> fix</c><00:07:14.160><c> the</c><00:07:14.319><c> typo</c><00:07:14.639><c> for</c>
+
+00:07:14.790 --> 00:07:14.800 align:start position:0%
+so you just go in and fix the typo for
+ 
+
+00:07:14.800 --> 00:07:17.029 align:start position:0%
+so you just go in and fix the typo for
+them<00:07:15.199><c> seamlessly</c><00:07:15.759><c> they</c><00:07:15.919><c> may</c><00:07:16.080><c> not</c><00:07:16.240><c> even</c><00:07:16.560><c> see</c><00:07:16.800><c> it</c>
+
+00:07:17.029 --> 00:07:17.039 align:start position:0%
+them seamlessly they may not even see it
+ 
+
+00:07:17.039 --> 00:07:19.350 align:start position:0%
+them seamlessly they may not even see it
+they<00:07:17.199><c> may</c><00:07:17.360><c> not</c><00:07:17.599><c> even</c><00:07:17.919><c> realize</c><00:07:18.400><c> you</c><00:07:18.720><c> did</c><00:07:18.960><c> it</c><00:07:19.199><c> and</c>
+
+00:07:19.350 --> 00:07:19.360 align:start position:0%
+they may not even realize you did it and
+ 
+
+00:07:19.360 --> 00:07:21.350 align:start position:0%
+they may not even realize you did it and
+what's<00:07:19.680><c> amazing</c><00:07:20.080><c> is</c><00:07:20.160><c> your</c><00:07:20.400><c> system</c><00:07:20.800><c> does</c><00:07:21.039><c> not</c>
+
+00:07:21.350 --> 00:07:21.360 align:start position:0%
+what's amazing is your system does not
+ 
+
+00:07:21.360 --> 00:07:24.150 align:start position:0%
+what's amazing is your system does not
+feel<00:07:21.919><c> slow</c><00:07:22.400><c> at</c><00:07:22.720><c> all</c><00:07:23.199><c> while</c><00:07:23.440><c> it's</c><00:07:23.680><c> running</c><00:07:24.000><c> you</c>
+
+00:07:24.150 --> 00:07:24.160 align:start position:0%
+feel slow at all while it's running you
+ 
+
+00:07:24.160 --> 00:07:26.230 align:start position:0%
+feel slow at all while it's running you
+don't<00:07:24.319><c> feel</c><00:07:24.639><c> any</c><00:07:24.960><c> type</c><00:07:25.120><c> of</c><00:07:25.280><c> lag</c><00:07:25.840><c> and</c>
+
+00:07:26.230 --> 00:07:26.240 align:start position:0%
+don't feel any type of lag and
+ 
+
+00:07:26.240 --> 00:07:28.469 align:start position:0%
+don't feel any type of lag and
+everything<00:07:26.639><c> is</c><00:07:26.800><c> still</c><00:07:27.280><c> crystal</c><00:07:27.840><c> clear</c><00:07:28.319><c> and</c>
+
+00:07:28.469 --> 00:07:28.479 align:start position:0%
+everything is still crystal clear and
+ 
+
+00:07:28.479 --> 00:07:31.510 align:start position:0%
+everything is still crystal clear and
+sharp<00:07:29.120><c> and</c><00:07:29.599><c> it</c><00:07:29.919><c> is</c><00:07:30.400><c> there's</c><00:07:30.720><c> no</c><00:07:31.120><c> difference</c>
+
+00:07:31.510 --> 00:07:31.520 align:start position:0%
+sharp and it is there's no difference
+ 
+
+00:07:31.520 --> 00:07:33.749 align:start position:0%
+sharp and it is there's no difference
+it's<00:07:31.759><c> as</c><00:07:31.919><c> if</c><00:07:32.000><c> they're</c><00:07:32.319><c> there</c><00:07:32.639><c> with</c><00:07:32.960><c> you</c><00:07:33.360><c> coding</c>
+
+00:07:33.749 --> 00:07:33.759 align:start position:0%
+it's as if they're there with you coding
+ 
+
+00:07:33.759 --> 00:07:35.749 align:start position:0%
+it's as if they're there with you coding
+this<00:07:34.000><c> problem</c><00:07:34.400><c> out</c><00:07:34.720><c> helping</c><00:07:35.039><c> you</c><00:07:35.280><c> learn</c><00:07:35.599><c> and</c>
+
+00:07:35.749 --> 00:07:35.759 align:start position:0%
+this problem out helping you learn and
+ 
+
+00:07:35.759 --> 00:07:37.990 align:start position:0%
+this problem out helping you learn and
+develop<00:07:36.240><c> your</c><00:07:36.479><c> skill</c><00:07:36.800><c> sets</c><00:07:37.360><c> and</c><00:07:37.520><c> honestly</c>
+
+00:07:37.990 --> 00:07:38.000 align:start position:0%
+develop your skill sets and honestly
+ 
+
+00:07:38.000 --> 00:07:40.790 align:start position:0%
+develop your skill sets and honestly
+it's<00:07:38.160><c> just</c><00:07:38.400><c> a</c><00:07:38.479><c> very</c><00:07:38.800><c> fun</c><00:07:39.120><c> tool</c><00:07:39.520><c> to</c><00:07:39.840><c> use</c><00:07:40.560><c> i've</c>
+
+00:07:40.790 --> 00:07:40.800 align:start position:0%
+it's just a very fun tool to use i've
+ 
+
+00:07:40.800 --> 00:07:43.749 align:start position:0%
+it's just a very fun tool to use i've
+used<00:07:41.120><c> it</c><00:07:41.360><c> and</c><00:07:41.680><c> i</c><00:07:42.400><c> love</c><00:07:42.639><c> it</c><00:07:42.800><c> i</c><00:07:43.120><c> now</c><00:07:43.360><c> i</c><00:07:43.440><c> kind</c><00:07:43.599><c> of</c>
+
+00:07:43.749 --> 00:07:43.759 align:start position:0%
+used it and i love it i now i kind of
+ 
+
+00:07:43.759 --> 00:07:46.629 align:start position:0%
+used it and i love it i now i kind of
+just<00:07:44.240><c> find</c><00:07:44.639><c> any</c><00:07:44.879><c> excuse</c><00:07:45.440><c> to</c><00:07:45.599><c> use</c><00:07:45.840><c> it</c><00:07:46.080><c> like</c><00:07:46.319><c> okay</c>
+
+00:07:46.629 --> 00:07:46.639 align:start position:0%
+just find any excuse to use it like okay
+ 
+
+00:07:46.639 --> 00:07:48.309 align:start position:0%
+just find any excuse to use it like okay
+well<00:07:47.039><c> i'm</c><00:07:47.199><c> about</c><00:07:47.360><c> to</c><00:07:47.520><c> watch</c><00:07:47.759><c> netflix</c><00:07:48.160><c> does</c>
+
+00:07:48.309 --> 00:07:48.319 align:start position:0%
+well i'm about to watch netflix does
+ 
+
+00:07:48.319 --> 00:07:50.309 align:start position:0%
+well i'm about to watch netflix does
+someone<00:07:48.560><c> want</c><00:07:48.720><c> to</c><00:07:49.120><c> hop</c><00:07:49.360><c> on</c><00:07:49.520><c> code</c><00:07:49.759><c> screen</c><00:07:50.160><c> with</c>
+
+00:07:50.309 --> 00:07:50.319 align:start position:0%
+someone want to hop on code screen with
+ 
+
+00:07:50.319 --> 00:07:51.830 align:start position:0%
+someone want to hop on code screen with
+me<00:07:50.560><c> and</c>
+
+00:07:51.830 --> 00:07:51.840 align:start position:0%
+me and
+ 
+
+00:07:51.840 --> 00:07:54.390 align:start position:0%
+me and
+like<00:07:52.160><c> now</c><00:07:52.400><c> i</c><00:07:52.560><c> just</c><00:07:53.039><c> use</c><00:07:53.360><c> it</c><00:07:53.520><c> for</c><00:07:53.840><c> everything</c>
+
+00:07:54.390 --> 00:07:54.400 align:start position:0%
+like now i just use it for everything
+ 
+
+00:07:54.400 --> 00:07:57.110 align:start position:0%
+like now i just use it for everything
+it's<00:07:54.560><c> just</c><00:07:54.879><c> so</c><00:07:55.120><c> fun</c><00:07:55.440><c> and</c><00:07:55.599><c> it</c><00:07:55.759><c> takes</c><00:07:56.080><c> that</c><00:07:56.479><c> angst</c>
+
+00:07:57.110 --> 00:07:57.120 align:start position:0%
+it's just so fun and it takes that angst
+ 
+
+00:07:57.120 --> 00:08:00.390 align:start position:0%
+it's just so fun and it takes that angst
+away<00:07:57.919><c> from</c><00:07:58.720><c> video</c><00:07:59.039><c> calls</c><00:07:59.360><c> and</c><00:07:59.919><c> pair</c>
+
+00:08:00.390 --> 00:08:00.400 align:start position:0%
+away from video calls and pair
+ 
+
+00:08:00.400 --> 00:08:02.710 align:start position:0%
+away from video calls and pair
+programming<00:08:01.039><c> because</c><00:08:01.599><c> i</c><00:08:01.759><c> think</c><00:08:02.080><c> all</c><00:08:02.240><c> of</c><00:08:02.400><c> us</c>
+
+00:08:02.710 --> 00:08:02.720 align:start position:0%
+programming because i think all of us
+ 
+
+00:08:02.720 --> 00:08:06.390 align:start position:0%
+programming because i think all of us
+with<00:08:03.360><c> 2020</c><00:08:04.160><c> and</c><00:08:04.479><c> now</c><00:08:04.720><c> 2021</c><00:08:05.599><c> and</c><00:08:05.759><c> who</c><00:08:06.000><c> knows</c><00:08:06.240><c> how</c>
+
+00:08:06.390 --> 00:08:06.400 align:start position:0%
+with 2020 and now 2021 and who knows how
+ 
+
+00:08:06.400 --> 00:08:09.110 align:start position:0%
+with 2020 and now 2021 and who knows how
+many<00:08:06.479><c> more</c><00:08:06.720><c> 20</c><00:08:07.039><c> 20</c><00:08:07.280><c> somethings</c><00:08:08.160><c> we</c><00:08:08.800><c> are</c>
+
+00:08:09.110 --> 00:08:09.120 align:start position:0%
+many more 20 20 somethings we are
+ 
+
+00:08:09.120 --> 00:08:12.230 align:start position:0%
+many more 20 20 somethings we are
+feeling<00:08:09.840><c> that</c><00:08:10.479><c> zoom</c><00:08:10.879><c> fatigue</c><00:08:11.599><c> i'm</c><00:08:12.000><c> not</c><00:08:12.160><c> going</c>
+
+00:08:12.230 --> 00:08:12.240 align:start position:0%
+feeling that zoom fatigue i'm not going
+ 
+
+00:08:12.240 --> 00:08:14.710 align:start position:0%
+feeling that zoom fatigue i'm not going
+to<00:08:12.319><c> speak</c><00:08:12.479><c> for</c><00:08:12.639><c> you</c><00:08:12.960><c> but</c><00:08:13.360><c> me</c><00:08:14.000><c> i</c><00:08:14.240><c> am</c><00:08:14.400><c> feeling</c>
+
+00:08:14.710 --> 00:08:14.720 align:start position:0%
+to speak for you but me i am feeling
+ 
+
+00:08:14.720 --> 00:08:16.790 align:start position:0%
+to speak for you but me i am feeling
+that<00:08:14.960><c> zoom</c><00:08:15.199><c> fatigue</c><00:08:15.599><c> i'm</c><00:08:15.680><c> like</c><00:08:15.840><c> okay</c><00:08:16.160><c> y'all</c><00:08:16.560><c> i</c>
+
+00:08:16.790 --> 00:08:16.800 align:start position:0%
+that zoom fatigue i'm like okay y'all i
+ 
+
+00:08:16.800 --> 00:08:19.589 align:start position:0%
+that zoom fatigue i'm like okay y'all i
+am<00:08:16.960><c> in</c><00:08:17.199><c> a</c><00:08:17.360><c> video</c><00:08:17.759><c> chat</c><00:08:18.080><c> it</c><00:08:18.240><c> seems</c><00:08:18.479><c> like</c><00:08:19.120><c> every</c>
+
+00:08:19.589 --> 00:08:19.599 align:start position:0%
+am in a video chat it seems like every
+ 
+
+00:08:19.599 --> 00:08:21.589 align:start position:0%
+am in a video chat it seems like every
+other<00:08:19.919><c> 30</c><00:08:20.319><c> minutes</c><00:08:20.720><c> like</c><00:08:20.960><c> i</c><00:08:21.039><c> can't</c><00:08:21.280><c> do</c><00:08:21.440><c> this</c>
+
+00:08:21.589 --> 00:08:21.599 align:start position:0%
+other 30 minutes like i can't do this
+ 
+
+00:08:21.599 --> 00:08:23.670 align:start position:0%
+other 30 minutes like i can't do this
+anymore<00:08:21.919><c> like</c><00:08:22.080><c> can</c><00:08:22.240><c> we</c><00:08:22.400><c> just</c><00:08:22.800><c> not</c><00:08:23.120><c> and</c><00:08:23.199><c> so</c><00:08:23.440><c> this</c>
+
+00:08:23.670 --> 00:08:23.680 align:start position:0%
+anymore like can we just not and so this
+ 
+
+00:08:23.680 --> 00:08:27.029 align:start position:0%
+anymore like can we just not and so this
+is<00:08:23.840><c> great</c><00:08:24.240><c> because</c><00:08:24.960><c> it's</c><00:08:25.280><c> not</c><00:08:25.759><c> focused</c><00:08:26.400><c> on</c><00:08:26.720><c> the</c>
+
+00:08:27.029 --> 00:08:27.039 align:start position:0%
+is great because it's not focused on the
+ 
+
+00:08:27.039 --> 00:08:30.150 align:start position:0%
+is great because it's not focused on the
+video<00:08:27.599><c> chat</c><00:08:28.160><c> part</c><00:08:28.639><c> of</c><00:08:29.120><c> things</c><00:08:29.680><c> really</c><00:08:30.000><c> there's</c>
+
+00:08:30.150 --> 00:08:30.160 align:start position:0%
+video chat part of things really there's
+ 
+
+00:08:30.160 --> 00:08:32.790 align:start position:0%
+video chat part of things really there's
+just<00:08:30.479><c> the</c><00:08:30.639><c> little</c><00:08:30.960><c> bubbles</c><00:08:31.520><c> on</c><00:08:31.680><c> the</c><00:08:31.919><c> side</c><00:08:32.479><c> of</c>
+
+00:08:32.790 --> 00:08:32.800 align:start position:0%
+just the little bubbles on the side of
+ 
+
+00:08:32.800 --> 00:08:35.269 align:start position:0%
+just the little bubbles on the side of
+okay<00:08:33.120><c> this</c><00:08:33.360><c> person</c><00:08:33.760><c> is</c><00:08:34.000><c> here</c><00:08:34.320><c> they</c><00:08:34.560><c> are</c><00:08:34.800><c> active</c>
+
+00:08:35.269 --> 00:08:35.279 align:start position:0%
+okay this person is here they are active
+ 
+
+00:08:35.279 --> 00:08:36.949 align:start position:0%
+okay this person is here they are active
+in<00:08:35.360><c> the</c><00:08:35.599><c> session</c><00:08:36.000><c> and</c><00:08:36.080><c> so</c><00:08:36.240><c> it</c><00:08:36.320><c> just</c><00:08:36.479><c> makes</c><00:08:36.719><c> that</c>
+
+00:08:36.949 --> 00:08:36.959 align:start position:0%
+in the session and so it just makes that
+ 
+
+00:08:36.959 --> 00:08:39.750 align:start position:0%
+in the session and so it just makes that
+work<00:08:37.279><c> session</c><00:08:37.760><c> that</c><00:08:38.000><c> much</c><00:08:38.320><c> more</c><00:08:38.839><c> enjoyable</c>
+
+00:08:39.750 --> 00:08:39.760 align:start position:0%
+work session that much more enjoyable
+ 
+
+00:08:39.760 --> 00:08:41.350 align:start position:0%
+work session that much more enjoyable
+along<00:08:40.080><c> with</c><00:08:40.240><c> post</c><00:08:40.479><c> screens</c><00:08:40.880><c> that's</c><00:08:41.039><c> tool</c>
+
+00:08:41.350 --> 00:08:41.360 align:start position:0%
+along with post screens that's tool
+ 
+
+00:08:41.360 --> 00:08:43.509 align:start position:0%
+along with post screens that's tool
+number<00:08:41.599><c> one</c><00:08:42.159><c> there</c><00:08:42.320><c> are</c><00:08:42.560><c> also</c><00:08:42.880><c> other</c><00:08:43.120><c> tools</c>
+
+00:08:43.509 --> 00:08:43.519 align:start position:0%
+number one there are also other tools
+ 
+
+00:08:43.519 --> 00:08:46.630 align:start position:0%
+number one there are also other tools
+such<00:08:43.839><c> as</c><00:08:44.320><c> vs</c><00:08:44.720><c> code</c><00:08:45.200><c> live</c><00:08:45.440><c> share</c><00:08:45.839><c> fies</c><00:08:46.160><c> go</c><00:08:46.399><c> live</c>
+
+00:08:46.630 --> 00:08:46.640 align:start position:0%
+such as vs code live share fies go live
+ 
+
+00:08:46.640 --> 00:08:48.790 align:start position:0%
+such as vs code live share fies go live
+share<00:08:46.880><c> is</c><00:08:47.040><c> great</c><00:08:47.279><c> because</c><00:08:47.600><c> you</c><00:08:47.680><c> can</c><00:08:47.920><c> access</c><00:08:48.399><c> it</c>
+
+00:08:48.790 --> 00:08:48.800 align:start position:0%
+share is great because you can access it
+ 
+
+00:08:48.800 --> 00:08:50.710 align:start position:0%
+share is great because you can access it
+via<00:08:49.200><c> vs</c><00:08:49.600><c> code</c><00:08:49.920><c> you</c><00:08:50.000><c> just</c><00:08:50.160><c> download</c><00:08:50.480><c> the</c>
+
+00:08:50.710 --> 00:08:50.720 align:start position:0%
+via vs code you just download the
+ 
+
+00:08:50.720 --> 00:08:52.949 align:start position:0%
+via vs code you just download the
+extension<00:08:51.279><c> and</c><00:08:51.440><c> there</c><00:08:51.920><c> you</c><00:08:52.160><c> go</c><00:08:52.560><c> and</c><00:08:52.640><c> so</c><00:08:52.800><c> it's</c>
+
+00:08:52.949 --> 00:08:52.959 align:start position:0%
+extension and there you go and so it's
+ 
+
+00:08:52.959 --> 00:08:54.790 align:start position:0%
+extension and there you go and so it's
+also<00:08:53.200><c> great</c><00:08:53.360><c> for</c><00:08:53.519><c> pair</c><00:08:53.760><c> programming</c><00:08:54.320><c> because</c>
+
+00:08:54.790 --> 00:08:54.800 align:start position:0%
+also great for pair programming because
+ 
+
+00:08:54.800 --> 00:08:56.389 align:start position:0%
+also great for pair programming because
+you<00:08:54.880><c> get</c><00:08:55.040><c> to</c><00:08:55.200><c> collaborate</c><00:08:55.680><c> with</c><00:08:55.760><c> one</c><00:08:56.000><c> another</c>
+
+00:08:56.389 --> 00:08:56.399 align:start position:0%
+you get to collaborate with one another
+ 
+
+00:08:56.399 --> 00:08:59.110 align:start position:0%
+you get to collaborate with one another
+being<00:08:56.640><c> able</c><00:08:57.120><c> to</c><00:08:57.360><c> see</c><00:08:57.680><c> the</c><00:08:57.839><c> exact</c><00:08:58.399><c> screen</c><00:08:58.880><c> and</c>
+
+00:08:59.110 --> 00:08:59.120 align:start position:0%
+being able to see the exact screen and
+ 
+
+00:08:59.120 --> 00:09:01.350 align:start position:0%
+being able to see the exact screen and
+files<00:08:59.600><c> and</c><00:08:59.839><c> terminals</c><00:09:00.320><c> that</c><00:09:00.560><c> people</c><00:09:01.120><c> are</c>
+
+00:09:01.350 --> 00:09:01.360 align:start position:0%
+files and terminals that people are
+ 
+
+00:09:01.360 --> 00:09:04.070 align:start position:0%
+files and terminals that people are
+working<00:09:01.760><c> with</c><00:09:02.160><c> but</c><00:09:02.560><c> the</c><00:09:02.720><c> only</c><00:09:03.120><c> thing</c><00:09:03.440><c> with</c><00:09:03.680><c> vs</c>
+
+00:09:04.070 --> 00:09:04.080 align:start position:0%
+working with but the only thing with vs
+ 
+
+00:09:04.080 --> 00:09:06.630 align:start position:0%
+working with but the only thing with vs
+code<00:09:04.720><c> is</c><00:09:05.040><c> you</c><00:09:05.279><c> still</c><00:09:05.600><c> need</c><00:09:05.839><c> to</c><00:09:06.000><c> have</c><00:09:06.240><c> some</c><00:09:06.480><c> kind</c>
+
+00:09:06.630 --> 00:09:06.640 align:start position:0%
+code is you still need to have some kind
+ 
+
+00:09:06.640 --> 00:09:09.990 align:start position:0%
+code is you still need to have some kind
+of<00:09:06.880><c> other</c><00:09:07.200><c> video</c><00:09:07.839><c> session</c><00:09:08.480><c> up</c><00:09:08.880><c> like</c><00:09:09.200><c> zoom</c><00:09:09.680><c> or</c>
+
+00:09:09.990 --> 00:09:10.000 align:start position:0%
+of other video session up like zoom or
+ 
+
+00:09:10.000 --> 00:09:12.310 align:start position:0%
+of other video session up like zoom or
+microsoft<00:09:10.560><c> teams</c><00:09:10.880><c> or</c><00:09:11.120><c> any</c><00:09:11.440><c> of</c><00:09:11.600><c> the</c><00:09:11.760><c> sorts</c><00:09:12.160><c> you</c>
+
+00:09:12.310 --> 00:09:12.320 align:start position:0%
+microsoft teams or any of the sorts you
+ 
+
+00:09:12.320 --> 00:09:14.230 align:start position:0%
+microsoft teams or any of the sorts you
+still<00:09:12.560><c> need</c><00:09:12.720><c> that</c><00:09:12.959><c> video</c><00:09:13.360><c> tool</c><00:09:13.680><c> up</c><00:09:14.000><c> to</c>
+
+00:09:14.230 --> 00:09:14.240 align:start position:0%
+still need that video tool up to
+ 
+
+00:09:14.240 --> 00:09:17.269 align:start position:0%
+still need that video tool up to
+seamlessly<00:09:15.360><c> talk</c><00:09:15.760><c> and</c><00:09:16.000><c> see</c><00:09:16.399><c> and</c><00:09:16.560><c> chat</c><00:09:16.959><c> with</c>
+
+00:09:17.269 --> 00:09:17.279 align:start position:0%
+seamlessly talk and see and chat with
+ 
+
+00:09:17.279 --> 00:09:19.590 align:start position:0%
+seamlessly talk and see and chat with
+one<00:09:17.519><c> another</c><00:09:17.920><c> they</c><00:09:18.080><c> do</c><00:09:18.240><c> have</c><00:09:18.399><c> a</c><00:09:18.560><c> chat</c><00:09:18.800><c> tool</c><00:09:19.440><c> but</c>
+
+00:09:19.590 --> 00:09:19.600 align:start position:0%
+one another they do have a chat tool but
+ 
+
+00:09:19.600 --> 00:09:21.190 align:start position:0%
+one another they do have a chat tool but
+it's<00:09:19.760><c> not</c><00:09:20.080><c> fun</c>
+
+00:09:21.190 --> 00:09:21.200 align:start position:0%
+it's not fun
+ 
+
+00:09:21.200 --> 00:09:23.670 align:start position:0%
+it's not fun
+having<00:09:21.440><c> to</c><00:09:21.600><c> stop</c><00:09:22.080><c> your</c><00:09:22.320><c> code</c><00:09:22.800><c> to</c><00:09:22.959><c> then</c><00:09:23.360><c> go</c><00:09:23.519><c> into</c>
+
+00:09:23.670 --> 00:09:23.680 align:start position:0%
+having to stop your code to then go into
+ 
+
+00:09:23.680 --> 00:09:25.750 align:start position:0%
+having to stop your code to then go into
+the<00:09:23.920><c> chat</c><00:09:24.480><c> and</c><00:09:24.640><c> then</c><00:09:24.880><c> see</c><00:09:25.040><c> the</c><00:09:25.120><c> response</c><00:09:25.600><c> from</c>
+
+00:09:25.750 --> 00:09:25.760 align:start position:0%
+the chat and then see the response from
+ 
+
+00:09:25.760 --> 00:09:27.509 align:start position:0%
+the chat and then see the response from
+the<00:09:25.920><c> chat</c><00:09:26.160><c> and</c><00:09:26.240><c> then</c><00:09:26.399><c> go</c><00:09:26.560><c> back</c><00:09:26.720><c> to</c><00:09:26.880><c> your</c><00:09:27.040><c> code</c>
+
+00:09:27.509 --> 00:09:27.519 align:start position:0%
+the chat and then go back to your code
+ 
+
+00:09:27.519 --> 00:09:29.670 align:start position:0%
+the chat and then go back to your code
+i'm<00:09:27.839><c> a</c><00:09:28.000><c> person</c><00:09:28.320><c> who</c><00:09:28.560><c> i'm</c><00:09:28.720><c> over</c><00:09:28.959><c> here</c><00:09:29.200><c> talking</c>
+
+00:09:29.670 --> 00:09:29.680 align:start position:0%
+i'm a person who i'm over here talking
+ 
+
+00:09:29.680 --> 00:09:32.710 align:start position:0%
+i'm a person who i'm over here talking
+it<00:09:29.920><c> out</c><00:09:30.240><c> and</c><00:09:30.720><c> coding</c><00:09:31.320><c> simultaneously</c><00:09:32.480><c> so</c><00:09:32.640><c> i</c>
+
+00:09:32.710 --> 00:09:32.720 align:start position:0%
+it out and coding simultaneously so i
+ 
+
+00:09:32.720 --> 00:09:35.350 align:start position:0%
+it out and coding simultaneously so i
+don't<00:09:32.880><c> really</c><00:09:33.040><c> like</c><00:09:33.279><c> that</c><00:09:33.680><c> break</c><00:09:34.399><c> in</c><00:09:34.880><c> my</c>
+
+00:09:35.350 --> 00:09:35.360 align:start position:0%
+don't really like that break in my
+ 
+
+00:09:35.360 --> 00:09:38.470 align:start position:0%
+don't really like that break in my
+operational<00:09:36.320><c> flow</c><00:09:37.040><c> and</c><00:09:37.360><c> lastly</c><00:09:37.760><c> you</c><00:09:37.920><c> can</c><00:09:38.160><c> do</c>
+
+00:09:38.470 --> 00:09:38.480 align:start position:0%
+operational flow and lastly you can do
+ 
+
+00:09:38.480 --> 00:09:41.030 align:start position:0%
+operational flow and lastly you can do
+the<00:09:38.720><c> simple</c><00:09:39.200><c> zoom</c><00:09:39.839><c> session</c><00:09:40.240><c> you</c><00:09:40.320><c> can</c><00:09:40.480><c> do</c><00:09:40.800><c> just</c>
+
+00:09:41.030 --> 00:09:41.040 align:start position:0%
+the simple zoom session you can do just
+ 
+
+00:09:41.040 --> 00:09:43.430 align:start position:0%
+the simple zoom session you can do just
+the<00:09:41.200><c> zoom</c><00:09:41.519><c> session</c><00:09:41.920><c> you</c><00:09:42.160><c> share</c><00:09:42.560><c> your</c><00:09:42.800><c> screen</c>
+
+00:09:43.430 --> 00:09:43.440 align:start position:0%
+the zoom session you share your screen
+ 
+
+00:09:43.440 --> 00:09:45.670 align:start position:0%
+the zoom session you share your screen
+and<00:09:43.760><c> you</c><00:09:44.000><c> have</c><00:09:44.240><c> that</c><00:09:44.480><c> driver</c><00:09:44.880><c> navigator</c>
+
+00:09:45.670 --> 00:09:45.680 align:start position:0%
+and you have that driver navigator
+ 
+
+00:09:45.680 --> 00:09:47.990 align:start position:0%
+and you have that driver navigator
+relationship<00:09:46.320><c> of</c><00:09:46.560><c> okay</c><00:09:46.959><c> this</c><00:09:47.200><c> person</c><00:09:47.760><c> is</c>
+
+00:09:47.990 --> 00:09:48.000 align:start position:0%
+relationship of okay this person is
+ 
+
+00:09:48.000 --> 00:09:49.430 align:start position:0%
+relationship of okay this person is
+going<00:09:48.240><c> to</c><00:09:48.320><c> be</c><00:09:48.399><c> coding</c><00:09:48.720><c> it</c><00:09:48.959><c> out</c><00:09:49.120><c> the</c><00:09:49.279><c> other</c>
+
+00:09:49.430 --> 00:09:49.440 align:start position:0%
+going to be coding it out the other
+ 
+
+00:09:49.440 --> 00:09:51.110 align:start position:0%
+going to be coding it out the other
+person<00:09:49.680><c> is</c><00:09:49.760><c> going</c><00:09:49.920><c> to</c><00:09:50.080><c> be</c><00:09:50.240><c> talking</c><00:09:50.560><c> to</c><00:09:50.720><c> them</c>
+
+00:09:51.110 --> 00:09:51.120 align:start position:0%
+person is going to be talking to them
+ 
+
+00:09:51.120 --> 00:09:54.230 align:start position:0%
+person is going to be talking to them
+the<00:09:51.360><c> only</c><00:09:51.760><c> thing</c><00:09:52.399><c> is</c><00:09:52.880><c> if</c><00:09:53.040><c> you</c><00:09:53.200><c> want</c><00:09:53.360><c> to</c><00:09:53.600><c> switch</c>
+
+00:09:54.230 --> 00:09:54.240 align:start position:0%
+the only thing is if you want to switch
+ 
+
+00:09:54.240 --> 00:09:56.150 align:start position:0%
+the only thing is if you want to switch
+at<00:09:54.480><c> any</c><00:09:54.800><c> point</c><00:09:55.120><c> who's</c><00:09:55.360><c> the</c><00:09:55.440><c> driver</c><00:09:55.760><c> who's</c><00:09:56.000><c> the</c>
+
+00:09:56.150 --> 00:09:56.160 align:start position:0%
+at any point who's the driver who's the
+ 
+
+00:09:56.160 --> 00:09:58.470 align:start position:0%
+at any point who's the driver who's the
+navigator<00:09:56.800><c> or</c><00:09:57.200><c> let's</c><00:09:57.360><c> say</c><00:09:57.519><c> you</c><00:09:57.680><c> see</c><00:09:57.839><c> a</c><00:09:57.920><c> typo</c>
+
+00:09:58.470 --> 00:09:58.480 align:start position:0%
+navigator or let's say you see a typo
+ 
+
+00:09:58.480 --> 00:10:00.470 align:start position:0%
+navigator or let's say you see a typo
+that<00:09:58.640><c> the</c><00:09:58.720><c> other</c><00:09:58.880><c> person</c><00:09:59.120><c> doesn't</c><00:09:59.360><c> see</c>
+
+00:10:00.470 --> 00:10:00.480 align:start position:0%
+that the other person doesn't see
+ 
+
+00:10:00.480 --> 00:10:04.150 align:start position:0%
+that the other person doesn't see
+kind<00:10:00.720><c> of</c><00:10:01.120><c> all</c><00:10:01.600><c> operations</c><00:10:02.399><c> need</c><00:10:02.640><c> to</c><00:10:02.880><c> seize</c><00:10:03.680><c> and</c>
+
+00:10:04.150 --> 00:10:04.160 align:start position:0%
+kind of all operations need to seize and
+ 
+
+00:10:04.160 --> 00:10:06.150 align:start position:0%
+kind of all operations need to seize and
+you<00:10:04.320><c> have</c><00:10:04.560><c> to</c><00:10:04.959><c> address</c><00:10:05.440><c> those</c><00:10:05.680><c> things</c><00:10:05.920><c> and</c><00:10:06.000><c> so</c>
+
+00:10:06.150 --> 00:10:06.160 align:start position:0%
+you have to address those things and so
+ 
+
+00:10:06.160 --> 00:10:07.750 align:start position:0%
+you have to address those things and so
+let's<00:10:06.320><c> say</c><00:10:06.480><c> you</c><00:10:06.560><c> see</c><00:10:06.720><c> a</c><00:10:06.800><c> typo</c><00:10:07.200><c> then</c><00:10:07.440><c> it's</c><00:10:07.600><c> like</c>
+
+00:10:07.750 --> 00:10:07.760 align:start position:0%
+let's say you see a typo then it's like
+ 
+
+00:10:07.760 --> 00:10:08.550 align:start position:0%
+let's say you see a typo then it's like
+yo
+
+00:10:08.550 --> 00:10:08.560 align:start position:0%
+yo
+ 
+
+00:10:08.560 --> 00:10:11.190 align:start position:0%
+yo
+tom<00:10:09.360><c> tom</c><00:10:09.920><c> can</c><00:10:10.079><c> you</c><00:10:10.160><c> hear</c><00:10:10.320><c> me</c><00:10:10.480><c> am</c><00:10:10.560><c> i</c><00:10:10.800><c> oh</c><00:10:10.959><c> shoot</c>
+
+00:10:11.190 --> 00:10:11.200 align:start position:0%
+tom tom can you hear me am i oh shoot
+ 
+
+00:10:11.200 --> 00:10:13.430 align:start position:0%
+tom tom can you hear me am i oh shoot
+i'm<00:10:11.360><c> muted</c><00:10:11.920><c> tom</c><00:10:12.399><c> you</c><00:10:12.560><c> have</c><00:10:12.720><c> a</c><00:10:12.800><c> typo</c><00:10:13.200><c> and</c><00:10:13.279><c> then</c>
+
+00:10:13.430 --> 00:10:13.440 align:start position:0%
+i'm muted tom you have a typo and then
+ 
+
+00:10:13.440 --> 00:10:15.590 align:start position:0%
+i'm muted tom you have a typo and then
+they<00:10:13.600><c> have</c><00:10:13.680><c> to</c><00:10:13.839><c> go</c><00:10:14.000><c> back</c><00:10:14.399><c> up</c><00:10:14.560><c> into</c><00:10:14.720><c> their</c><00:10:14.880><c> typo</c>
+
+00:10:15.590 --> 00:10:15.600 align:start position:0%
+they have to go back up into their typo
+ 
+
+00:10:15.600 --> 00:10:18.470 align:start position:0%
+they have to go back up into their typo
+fix<00:10:15.920><c> it</c><00:10:16.160><c> and</c><00:10:16.399><c> then</c><00:10:16.959><c> continue</c><00:10:17.680><c> and</c><00:10:17.760><c> so</c><00:10:18.000><c> it's</c>
+
+00:10:18.470 --> 00:10:18.480 align:start position:0%
+fix it and then continue and so it's
+ 
+
+00:10:18.480 --> 00:10:20.389 align:start position:0%
+fix it and then continue and so it's
+less<00:10:18.720><c> of</c><00:10:18.880><c> a</c><00:10:19.120><c> seamless</c>
+
+00:10:20.389 --> 00:10:20.399 align:start position:0%
+less of a seamless
+ 
+
+00:10:20.399 --> 00:10:22.550 align:start position:0%
+less of a seamless
+experience<00:10:21.279><c> and</c><00:10:21.600><c> if</c><00:10:21.760><c> you</c><00:10:21.920><c> ever</c><00:10:22.079><c> want</c><00:10:22.320><c> to</c>
+
+00:10:22.550 --> 00:10:22.560 align:start position:0%
+experience and if you ever want to
+ 
+
+00:10:22.560 --> 00:10:24.150 align:start position:0%
+experience and if you ever want to
+switch<00:10:23.040><c> who's</c><00:10:23.279><c> the</c><00:10:23.440><c> driver</c><00:10:23.760><c> and</c><00:10:23.839><c> who's</c><00:10:24.079><c> the</c>
+
+00:10:24.150 --> 00:10:24.160 align:start position:0%
+switch who's the driver and who's the
+ 
+
+00:10:24.160 --> 00:10:26.310 align:start position:0%
+switch who's the driver and who's the
+navigator<00:10:24.720><c> that</c><00:10:25.040><c> also</c><00:10:25.360><c> sees</c><00:10:25.600><c> this</c><00:10:25.839><c> operation</c>
+
+00:10:26.310 --> 00:10:26.320 align:start position:0%
+navigator that also sees this operation
+ 
+
+00:10:26.320 --> 00:10:28.630 align:start position:0%
+navigator that also sees this operation
+for<00:10:26.640><c> a</c><00:10:26.720><c> second</c><00:10:27.120><c> because</c><00:10:27.519><c> now</c><00:10:27.839><c> the</c><00:10:28.079><c> original</c>
+
+00:10:28.630 --> 00:10:28.640 align:start position:0%
+for a second because now the original
+ 
+
+00:10:28.640 --> 00:10:30.230 align:start position:0%
+for a second because now the original
+driver<00:10:29.040><c> needs</c><00:10:29.279><c> to</c><00:10:29.440><c> stop</c><00:10:29.760><c> sharing</c><00:10:30.079><c> their</c>
+
+00:10:30.230 --> 00:10:30.240 align:start position:0%
+driver needs to stop sharing their
+ 
+
+00:10:30.240 --> 00:10:32.550 align:start position:0%
+driver needs to stop sharing their
+screen<00:10:30.800><c> the</c><00:10:31.200><c> new</c><00:10:31.440><c> driver</c><00:10:31.839><c> needs</c><00:10:32.079><c> to</c><00:10:32.399><c> start</c>
+
+00:10:32.550 --> 00:10:32.560 align:start position:0%
+screen the new driver needs to start
+ 
+
+00:10:32.560 --> 00:10:35.350 align:start position:0%
+screen the new driver needs to start
+sharing<00:10:32.880><c> their</c><00:10:33.040><c> screen</c><00:10:33.680><c> and</c><00:10:34.160><c> it's</c><00:10:34.399><c> a</c><00:10:34.560><c> more</c>
+
+00:10:35.350 --> 00:10:35.360 align:start position:0%
+sharing their screen and it's a more
+ 
+
+00:10:35.360 --> 00:10:38.310 align:start position:0%
+sharing their screen and it's a more
+manual<00:10:36.079><c> switch</c><00:10:36.560><c> that</c><00:10:36.800><c> needs</c><00:10:37.120><c> to</c><00:10:37.519><c> happen</c><00:10:38.079><c> you</c>
+
+00:10:38.310 --> 00:10:38.320 align:start position:0%
+manual switch that needs to happen you
+ 
+
+00:10:38.320 --> 00:10:41.190 align:start position:0%
+manual switch that needs to happen you
+actually<00:10:38.640><c> have</c><00:10:38.800><c> to</c><00:10:39.440><c> get</c><00:10:39.680><c> out</c><00:10:39.839><c> of</c><00:10:39.920><c> the</c><00:10:40.160><c> car</c>
+
+00:10:41.190 --> 00:10:41.200 align:start position:0%
+actually have to get out of the car
+ 
+
+00:10:41.200 --> 00:10:43.910 align:start position:0%
+actually have to get out of the car
+switch<00:10:41.680><c> seats</c><00:10:42.399><c> and</c><00:10:42.560><c> sit</c><00:10:42.800><c> down</c><00:10:43.120><c> but</c><00:10:43.360><c> it</c><00:10:43.519><c> too</c><00:10:43.680><c> can</c>
+
+00:10:43.910 --> 00:10:43.920 align:start position:0%
+switch seats and sit down but it too can
+ 
+
+00:10:43.920 --> 00:10:45.910 align:start position:0%
+switch seats and sit down but it too can
+get<00:10:44.079><c> the</c><00:10:44.320><c> job</c><00:10:44.560><c> done</c><00:10:44.880><c> and</c><00:10:44.959><c> so</c><00:10:45.360><c> that's</c><00:10:45.680><c> really</c>
+
+00:10:45.910 --> 00:10:45.920 align:start position:0%
+get the job done and so that's really
+ 
+
+00:10:45.920 --> 00:10:48.069 align:start position:0%
+get the job done and so that's really
+why<00:10:46.240><c> i</c><00:10:46.399><c> love</c><00:10:46.640><c> code</c><00:10:46.880><c> screen</c><00:10:47.200><c> the</c><00:10:47.360><c> first</c><00:10:47.600><c> time</c><00:10:47.920><c> i</c>
+
+00:10:48.069 --> 00:10:48.079 align:start position:0%
+why i love code screen the first time i
+ 
+
+00:10:48.079 --> 00:10:51.350 align:start position:0%
+why i love code screen the first time i
+used<00:10:48.320><c> it</c><00:10:48.800><c> it</c><00:10:49.040><c> took</c><00:10:49.600><c> no</c><00:10:49.920><c> time</c><00:10:50.399><c> at</c><00:10:50.560><c> all</c><00:10:50.720><c> it</c><00:10:50.880><c> took</c>
+
+00:10:51.350 --> 00:10:51.360 align:start position:0%
+used it it took no time at all it took
+ 
+
+00:10:51.360 --> 00:10:52.150 align:start position:0%
+used it it took no time at all it took
+no
+
+00:10:52.150 --> 00:10:52.160 align:start position:0%
+no
+ 
+
+00:10:52.160 --> 00:10:53.670 align:start position:0%
+no
+figuring<00:10:52.560><c> out</c><00:10:52.800><c> and</c><00:10:52.880><c> that's</c><00:10:53.200><c> another</c><00:10:53.440><c> thing</c>
+
+00:10:53.670 --> 00:10:53.680 align:start position:0%
+figuring out and that's another thing
+ 
+
+00:10:53.680 --> 00:10:56.630 align:start position:0%
+figuring out and that's another thing
+with<00:10:53.839><c> vs</c><00:10:54.240><c> code</c><00:10:54.720><c> it</c><00:10:54.959><c> does</c><00:10:55.279><c> take</c><00:10:55.920><c> some</c><00:10:56.160><c> figuring</c>
+
+00:10:56.630 --> 00:10:56.640 align:start position:0%
+with vs code it does take some figuring
+ 
+
+00:10:56.640 --> 00:10:59.590 align:start position:0%
+with vs code it does take some figuring
+out<00:10:56.959><c> there</c><00:10:57.360><c> are</c><00:10:57.760><c> multiple</c><00:10:58.320><c> setup</c><00:10:58.800><c> steps</c><00:10:59.440><c> that</c>
+
+00:10:59.590 --> 00:10:59.600 align:start position:0%
+out there are multiple setup steps that
+ 
+
+00:10:59.600 --> 00:11:01.829 align:start position:0%
+out there are multiple setup steps that
+you<00:10:59.839><c> need</c><00:11:00.079><c> to</c><00:11:00.640><c> really</c><00:11:00.880><c> figure</c><00:11:01.200><c> out</c><00:11:01.440><c> before</c><00:11:01.760><c> you</c>
+
+00:11:01.829 --> 00:11:01.839 align:start position:0%
+you need to really figure out before you
+ 
+
+00:11:01.839 --> 00:11:04.389 align:start position:0%
+you need to really figure out before you
+can<00:11:02.000><c> really</c><00:11:02.480><c> dive</c><00:11:02.880><c> in</c><00:11:03.279><c> but</c><00:11:03.519><c> this</c><00:11:03.839><c> once</c><00:11:04.079><c> you</c><00:11:04.240><c> get</c>
+
+00:11:04.389 --> 00:11:04.399 align:start position:0%
+can really dive in but this once you get
+ 
+
+00:11:04.399 --> 00:11:06.550 align:start position:0%
+can really dive in but this once you get
+it<00:11:04.640><c> installed</c><00:11:05.279><c> you</c><00:11:05.440><c> get</c><00:11:05.600><c> into</c><00:11:05.839><c> the</c><00:11:06.000><c> session</c>
+
+00:11:06.550 --> 00:11:06.560 align:start position:0%
+it installed you get into the session
+ 
+
+00:11:06.560 --> 00:11:07.350 align:start position:0%
+it installed you get into the session
+and
+
+00:11:07.350 --> 00:11:07.360 align:start position:0%
+and
+ 
+
+00:11:07.360 --> 00:11:09.269 align:start position:0%
+and
+boom<00:11:07.680><c> you're</c><00:11:07.920><c> off</c><00:11:08.079><c> to</c><00:11:08.240><c> the</c><00:11:08.320><c> races</c><00:11:08.720><c> like</c><00:11:08.959><c> y'all</c>
+
+00:11:09.269 --> 00:11:09.279 align:start position:0%
+boom you're off to the races like y'all
+ 
+
+00:11:09.279 --> 00:11:11.430 align:start position:0%
+boom you're off to the races like y'all
+i<00:11:09.440><c> really</c><00:11:09.680><c> love</c><00:11:09.920><c> this</c><00:11:10.240><c> tool</c><00:11:10.800><c> i</c><00:11:11.040><c> really</c><00:11:11.279><c> love</c>
+
+00:11:11.430 --> 00:11:11.440 align:start position:0%
+i really love this tool i really love
+ 
+
+00:11:11.440 --> 00:11:13.910 align:start position:0%
+i really love this tool i really love
+this<00:11:11.600><c> tool</c><00:11:11.839><c> like</c><00:11:12.079><c> i</c><00:11:12.160><c> said</c><00:11:12.399><c> i</c><00:11:12.560><c> use</c><00:11:13.120><c> any</c><00:11:13.440><c> excuse</c>
+
+00:11:13.910 --> 00:11:13.920 align:start position:0%
+this tool like i said i use any excuse
+ 
+
+00:11:13.920 --> 00:11:16.949 align:start position:0%
+this tool like i said i use any excuse
+to<00:11:14.160><c> start</c><00:11:14.880><c> using</c><00:11:15.360><c> and</c><00:11:15.920><c> it's</c><00:11:16.320><c> the</c><00:11:16.480><c> first</c><00:11:16.720><c> time</c>
+
+00:11:16.949 --> 00:11:16.959 align:start position:0%
+to start using and it's the first time
+ 
+
+00:11:16.959 --> 00:11:19.269 align:start position:0%
+to start using and it's the first time
+you<00:11:17.120><c> use</c><00:11:17.360><c> it</c><00:11:17.519><c> you'll</c><00:11:17.760><c> see</c><00:11:18.160><c> you'll</c><00:11:18.480><c> get</c><00:11:18.959><c> very</c>
+
+00:11:19.269 --> 00:11:19.279 align:start position:0%
+you use it you'll see you'll get very
+ 
+
+00:11:19.279 --> 00:11:20.870 align:start position:0%
+you use it you'll see you'll get very
+impressed<00:11:19.600><c> you'll</c><00:11:19.760><c> be</c><00:11:19.839><c> like</c><00:11:20.000><c> oh</c><00:11:20.240><c> wow</c><00:11:20.560><c> i</c><00:11:20.720><c> can</c>
+
+00:11:20.870 --> 00:11:20.880 align:start position:0%
+impressed you'll be like oh wow i can
+ 
+
+00:11:20.880 --> 00:11:23.509 align:start position:0%
+impressed you'll be like oh wow i can
+just<00:11:21.360><c> i</c><00:11:21.519><c> can</c><00:11:21.680><c> just</c><00:11:21.839><c> go</c><00:11:22.079><c> into</c><00:11:22.640><c> here</c><00:11:22.959><c> and</c><00:11:23.120><c> just</c>
+
+00:11:23.509 --> 00:11:23.519 align:start position:0%
+just i can just go into here and just
+ 
+
+00:11:23.519 --> 00:11:25.110 align:start position:0%
+just i can just go into here and just
+copy<00:11:23.839><c> and</c><00:11:23.920><c> paste</c><00:11:24.240><c> something</c><00:11:24.480><c> that's</c><00:11:24.800><c> on</c><00:11:24.959><c> your</c>
+
+00:11:25.110 --> 00:11:25.120 align:start position:0%
+copy and paste something that's on your
+ 
+
+00:11:25.120 --> 00:11:27.430 align:start position:0%
+copy and paste something that's on your
+screen<00:11:25.440><c> and</c><00:11:25.519><c> copy</c><00:11:25.839><c> it</c><00:11:26.000><c> onto</c><00:11:26.240><c> my</c><00:11:26.399><c> screen</c><00:11:26.720><c> or</c><00:11:27.120><c> fix</c>
+
+00:11:27.430 --> 00:11:27.440 align:start position:0%
+screen and copy it onto my screen or fix
+ 
+
+00:11:27.440 --> 00:11:30.630 align:start position:0%
+screen and copy it onto my screen or fix
+your<00:11:27.680><c> typo</c><00:11:28.320><c> and</c><00:11:28.800><c> you</c><00:11:28.959><c> don't</c><00:11:29.200><c> even</c><00:11:29.920><c> see</c><00:11:30.320><c> any</c>
+
+00:11:30.630 --> 00:11:30.640 align:start position:0%
+your typo and you don't even see any
+ 
+
+00:11:30.640 --> 00:11:33.590 align:start position:0%
+your typo and you don't even see any
+difference<00:11:31.200><c> in</c><00:11:31.519><c> again</c><00:11:31.920><c> lag</c><00:11:32.240><c> time</c><00:11:32.720><c> or</c><00:11:33.200><c> any</c>
+
+00:11:33.590 --> 00:11:33.600 align:start position:0%
+difference in again lag time or any
+ 
+
+00:11:33.600 --> 00:11:35.829 align:start position:0%
+difference in again lag time or any
+operational<00:11:34.399><c> difficulties</c><00:11:35.120><c> it's</c><00:11:35.519><c> it's</c><00:11:35.680><c> a</c>
+
+00:11:35.829 --> 00:11:35.839 align:start position:0%
+operational difficulties it's it's a
+ 
+
+00:11:35.839 --> 00:11:37.990 align:start position:0%
+operational difficulties it's it's a
+great<00:11:36.240><c> experience</c><00:11:36.959><c> and</c><00:11:37.120><c> what's</c><00:11:37.440><c> great</c><00:11:37.680><c> is</c><00:11:37.839><c> you</c>
+
+00:11:37.990 --> 00:11:38.000 align:start position:0%
+great experience and what's great is you
+ 
+
+00:11:38.000 --> 00:11:40.710 align:start position:0%
+great experience and what's great is you
+can<00:11:38.240><c> use</c><00:11:38.560><c> code</c><00:11:38.800><c> screen</c><00:11:39.279><c> for</c><00:11:39.839><c> free</c><00:11:40.240><c> there</c><00:11:40.480><c> is</c><00:11:40.640><c> a</c>
+
+00:11:40.710 --> 00:11:40.720 align:start position:0%
+can use code screen for free there is a
+ 
+
+00:11:40.720 --> 00:11:42.949 align:start position:0%
+can use code screen for free there is a
+bit<00:11:40.880><c> of</c><00:11:40.959><c> a</c><00:11:41.120><c> limitation</c><00:11:41.920><c> on</c><00:11:42.079><c> how</c><00:11:42.240><c> many</c><00:11:42.560><c> sessions</c>
+
+00:11:42.949 --> 00:11:42.959 align:start position:0%
+bit of a limitation on how many sessions
+ 
+
+00:11:42.959 --> 00:11:45.110 align:start position:0%
+bit of a limitation on how many sessions
+you<00:11:43.040><c> can</c><00:11:43.200><c> have</c><00:11:43.519><c> per</c><00:11:43.920><c> month</c><00:11:44.240><c> is</c><00:11:44.399><c> about</c><00:11:44.800><c> 10</c>
+
+00:11:45.110 --> 00:11:45.120 align:start position:0%
+you can have per month is about 10
+ 
+
+00:11:45.120 --> 00:11:47.670 align:start position:0%
+you can have per month is about 10
+sessions<00:11:45.760><c> a</c><00:11:45.920><c> month</c><00:11:46.160><c> for</c><00:11:46.320><c> the</c><00:11:46.560><c> free</c><00:11:46.959><c> plan</c>
+
+00:11:47.670 --> 00:11:47.680 align:start position:0%
+sessions a month for the free plan
+ 
+
+00:11:47.680 --> 00:11:51.030 align:start position:0%
+sessions a month for the free plan
+however<00:11:48.560><c> if</c><00:11:48.880><c> you</c><00:11:49.519><c> comment</c><00:11:49.839><c> down</c><00:11:50.000><c> below</c><00:11:50.720><c> i</c><00:11:50.880><c> will</c>
+
+00:11:51.030 --> 00:11:51.040 align:start position:0%
+however if you comment down below i will
+ 
+
+00:11:51.040 --> 00:11:53.030 align:start position:0%
+however if you comment down below i will
+be<00:11:51.279><c> choosing</c><00:11:51.760><c> three</c><00:11:52.079><c> people</c><00:11:52.480><c> to</c><00:11:52.560><c> get</c><00:11:52.800><c> a</c>
+
+00:11:53.030 --> 00:11:53.040 align:start position:0%
+be choosing three people to get a
+ 
+
+00:11:53.040 --> 00:11:55.670 align:start position:0%
+be choosing three people to get a
+lifetime<00:11:53.760><c> membership</c><00:11:54.560><c> with</c><00:11:54.959><c> co-screen</c><00:11:55.519><c> so</c>
+
+00:11:55.670 --> 00:11:55.680 align:start position:0%
+lifetime membership with co-screen so
+ 
+
+00:11:55.680 --> 00:11:58.790 align:start position:0%
+lifetime membership with co-screen so
+now<00:11:56.320><c> that</c><00:11:56.800><c> cap</c><00:11:57.120><c> on</c><00:11:57.440><c> sessions</c><00:11:58.000><c> you</c><00:11:58.240><c> can</c><00:11:58.399><c> do</c><00:11:58.639><c> per</c>
+
+00:11:58.790 --> 00:11:58.800 align:start position:0%
+now that cap on sessions you can do per
+ 
+
+00:11:58.800 --> 00:12:00.629 align:start position:0%
+now that cap on sessions you can do per
+month<00:11:59.040><c> it</c><00:11:59.279><c> is</c><00:11:59.360><c> gone</c><00:11:59.680><c> and</c><00:11:59.839><c> so</c><00:12:00.240><c> make</c><00:12:00.399><c> sure</c><00:12:00.560><c> you</c>
+
+00:12:00.629 --> 00:12:00.639 align:start position:0%
+month it is gone and so make sure you
+ 
+
+00:12:00.639 --> 00:12:02.310 align:start position:0%
+month it is gone and so make sure you
+leave<00:12:00.800><c> a</c><00:12:00.880><c> comment</c><00:12:01.200><c> below</c><00:12:01.519><c> and</c><00:12:01.760><c> lastly</c><00:12:02.079><c> i'm</c>
+
+00:12:02.310 --> 00:12:02.320 align:start position:0%
+leave a comment below and lastly i'm
+ 
+
+00:12:02.320 --> 00:12:04.310 align:start position:0%
+leave a comment below and lastly i'm
+going<00:12:02.480><c> to</c><00:12:02.560><c> talk</c><00:12:02.800><c> about</c><00:12:03.040><c> where</c><00:12:03.279><c> to</c><00:12:03.519><c> get</c><00:12:03.760><c> a</c><00:12:03.920><c> pair</c>
+
+00:12:04.310 --> 00:12:04.320 align:start position:0%
+going to talk about where to get a pair
+ 
+
+00:12:04.320 --> 00:12:07.030 align:start position:0%
+going to talk about where to get a pair
+programming<00:12:05.279><c> partner</c><00:12:05.839><c> this</c><00:12:06.079><c> is</c><00:12:06.160><c> something</c><00:12:06.880><c> i</c>
+
+00:12:07.030 --> 00:12:07.040 align:start position:0%
+programming partner this is something i
+ 
+
+00:12:07.040 --> 00:12:09.030 align:start position:0%
+programming partner this is something i
+find<00:12:07.279><c> to</c><00:12:07.360><c> be</c><00:12:07.600><c> very</c><00:12:07.760><c> important</c><00:12:08.240><c> especially</c><00:12:08.800><c> if</c>
+
+00:12:09.030 --> 00:12:09.040 align:start position:0%
+find to be very important especially if
+ 
+
+00:12:09.040 --> 00:12:11.269 align:start position:0%
+find to be very important especially if
+you<00:12:09.279><c> are</c><00:12:09.519><c> self</c><00:12:10.000><c> teaching</c><00:12:10.720><c> or</c><00:12:10.959><c> going</c><00:12:11.200><c> to</c>
+
+00:12:11.269 --> 00:12:11.279 align:start position:0%
+you are self teaching or going to
+ 
+
+00:12:11.279 --> 00:12:12.949 align:start position:0%
+you are self teaching or going to
+according<00:12:11.600><c> boot</c><00:12:11.760><c> camp</c><00:12:12.000><c> and</c><00:12:12.160><c> in</c><00:12:12.240><c> general</c><00:12:12.639><c> not</c>
+
+00:12:12.949 --> 00:12:12.959 align:start position:0%
+according boot camp and in general not
+ 
+
+00:12:12.959 --> 00:12:16.470 align:start position:0%
+according boot camp and in general not
+in<00:12:13.519><c> an</c><00:12:14.040><c> institution</c><00:12:15.200><c> like</c><00:12:15.440><c> a</c><00:12:15.680><c> college</c><00:12:16.320><c> or</c>
+
+00:12:16.470 --> 00:12:16.480 align:start position:0%
+in an institution like a college or
+ 
+
+00:12:16.480 --> 00:12:18.550 align:start position:0%
+in an institution like a college or
+something<00:12:16.800><c> where</c><00:12:17.040><c> you</c><00:12:17.360><c> have</c><00:12:17.680><c> you</c><00:12:17.760><c> know</c><00:12:18.000><c> your</c>
+
+00:12:18.550 --> 00:12:18.560 align:start position:0%
+something where you have you know your
+ 
+
+00:12:18.560 --> 00:12:20.629 align:start position:0%
+something where you have you know your
+dorm<00:12:18.800><c> mates</c><00:12:19.120><c> and</c><00:12:19.200><c> your</c><00:12:19.360><c> classmates</c><00:12:20.079><c> and</c><00:12:20.399><c> all</c>
+
+00:12:20.629 --> 00:12:20.639 align:start position:0%
+dorm mates and your classmates and all
+ 
+
+00:12:20.639 --> 00:12:23.350 align:start position:0%
+dorm mates and your classmates and all
+of<00:12:20.800><c> this</c><00:12:21.279><c> just</c><00:12:21.519><c> available</c><00:12:22.160><c> to</c><00:12:22.320><c> you</c><00:12:22.800><c> if</c><00:12:22.959><c> you</c><00:12:23.200><c> are</c>
+
+00:12:23.350 --> 00:12:23.360 align:start position:0%
+of this just available to you if you are
+ 
+
+00:12:23.360 --> 00:12:25.269 align:start position:0%
+of this just available to you if you are
+going<00:12:23.519><c> through</c><00:12:23.760><c> coding</c><00:12:24.160><c> boot</c><00:12:24.399><c> camp</c><00:12:24.720><c> you</c><00:12:24.959><c> are</c>
+
+00:12:25.269 --> 00:12:25.279 align:start position:0%
+going through coding boot camp you are
+ 
+
+00:12:25.279 --> 00:12:27.910 align:start position:0%
+going through coding boot camp you are
+actually<00:12:25.600><c> in</c><00:12:25.760><c> a</c><00:12:25.839><c> pretty</c><00:12:26.160><c> good</c><00:12:26.480><c> place</c><00:12:26.880><c> i</c><00:12:27.200><c> do</c>
+
+00:12:27.910 --> 00:12:27.920 align:start position:0%
+actually in a pretty good place i do
+ 
+
+00:12:27.920 --> 00:12:30.069 align:start position:0%
+actually in a pretty good place i do
+highly<00:12:28.320><c> recommend</c><00:12:29.040><c> just</c><00:12:29.360><c> hitting</c><00:12:29.680><c> up</c><00:12:29.839><c> the</c>
+
+00:12:30.069 --> 00:12:30.079 align:start position:0%
+highly recommend just hitting up the
+ 
+
+00:12:30.079 --> 00:12:33.030 align:start position:0%
+highly recommend just hitting up the
+chat<00:12:30.320><c> and</c><00:12:30.480><c> saying</c><00:12:30.800><c> yo</c><00:12:31.519><c> who</c><00:12:31.920><c> has</c><00:12:32.320><c> one</c><00:12:32.639><c> hour</c><00:12:32.959><c> i</c>
+
+00:12:33.030 --> 00:12:33.040 align:start position:0%
+chat and saying yo who has one hour i
+ 
+
+00:12:33.040 --> 00:12:34.550 align:start position:0%
+chat and saying yo who has one hour i
+would<00:12:33.200><c> love</c><00:12:33.360><c> to</c><00:12:33.519><c> pair</c><00:12:33.760><c> programs</c><00:12:34.240><c> this</c><00:12:34.399><c> is</c>
+
+00:12:34.550 --> 00:12:34.560 align:start position:0%
+would love to pair programs this is
+ 
+
+00:12:34.560 --> 00:12:36.710 align:start position:0%
+would love to pair programs this is
+something<00:12:35.200><c> that</c><00:12:35.519><c> i</c><00:12:35.680><c> did</c><00:12:35.920><c> i</c><00:12:36.000><c> went</c><00:12:36.160><c> to</c><00:12:36.320><c> flat</c><00:12:36.560><c> art</c>
+
+00:12:36.710 --> 00:12:36.720 align:start position:0%
+something that i did i went to flat art
+ 
+
+00:12:36.720 --> 00:12:38.870 align:start position:0%
+something that i did i went to flat art
+school<00:12:36.959><c> for</c><00:12:37.200><c> anyone</c><00:12:37.519><c> who</c><00:12:37.680><c> doesn't</c><00:12:37.920><c> know</c><00:12:38.320><c> but</c><00:12:38.720><c> i</c>
+
+00:12:38.870 --> 00:12:38.880 align:start position:0%
+school for anyone who doesn't know but i
+ 
+
+00:12:38.880 --> 00:12:41.269 align:start position:0%
+school for anyone who doesn't know but i
+went<00:12:39.040><c> to</c><00:12:39.200><c> planner</c><00:12:39.680><c> school</c><00:12:40.079><c> last</c><00:12:40.399><c> year</c><00:12:40.880><c> and</c><00:12:41.120><c> i</c>
+
+00:12:41.269 --> 00:12:41.279 align:start position:0%
+went to planner school last year and i
+ 
+
+00:12:41.279 --> 00:12:42.790 align:start position:0%
+went to planner school last year and i
+would<00:12:41.440><c> do</c><00:12:41.600><c> this</c><00:12:41.920><c> and</c><00:12:42.079><c> other</c><00:12:42.240><c> people</c><00:12:42.480><c> would</c><00:12:42.639><c> do</c>
+
+00:12:42.790 --> 00:12:42.800 align:start position:0%
+would do this and other people would do
+ 
+
+00:12:42.800 --> 00:12:44.550 align:start position:0%
+would do this and other people would do
+this<00:12:43.040><c> too</c><00:12:43.279><c> of</c><00:12:43.519><c> okay</c><00:12:43.839><c> who</c><00:12:44.000><c> wants</c><00:12:44.240><c> to</c><00:12:44.320><c> pay</c><00:12:44.480><c> a</c>
+
+00:12:44.550 --> 00:12:44.560 align:start position:0%
+this too of okay who wants to pay a
+ 
+
+00:12:44.560 --> 00:12:46.310 align:start position:0%
+this too of okay who wants to pay a
+program<00:12:44.880><c> for</c><00:12:45.040><c> the</c><00:12:45.120><c> next</c><00:12:45.360><c> 30</c><00:12:45.680><c> minutes</c><00:12:46.079><c> i</c><00:12:46.240><c> am</c>
+
+00:12:46.310 --> 00:12:46.320 align:start position:0%
+program for the next 30 minutes i am
+ 
+
+00:12:46.320 --> 00:12:48.870 align:start position:0%
+program for the next 30 minutes i am
+working<00:12:46.560><c> on</c><00:12:46.720><c> this</c><00:12:46.880><c> project</c><00:12:47.360><c> i'd</c><00:12:47.600><c> love</c><00:12:47.920><c> to</c><00:12:48.639><c> pair</c>
+
+00:12:48.870 --> 00:12:48.880 align:start position:0%
+working on this project i'd love to pair
+ 
+
+00:12:48.880 --> 00:12:51.269 align:start position:0%
+working on this project i'd love to pair
+program<00:12:49.440><c> now</c><00:12:49.920><c> where</c><00:12:50.079><c> it</c><00:12:50.160><c> gets</c><00:12:50.480><c> tricky</c><00:12:50.880><c> is</c><00:12:51.040><c> if</c>
+
+00:12:51.269 --> 00:12:51.279 align:start position:0%
+program now where it gets tricky is if
+ 
+
+00:12:51.279 --> 00:12:53.190 align:start position:0%
+program now where it gets tricky is if
+you<00:12:51.519><c> are</c><00:12:51.839><c> self-teaching</c><00:12:52.720><c> if</c><00:12:52.880><c> you</c><00:12:53.040><c> are</c>
+
+00:12:53.190 --> 00:12:53.200 align:start position:0%
+you are self-teaching if you are
+ 
+
+00:12:53.200 --> 00:12:56.310 align:start position:0%
+you are self-teaching if you are
+self-teaching<00:12:54.320><c> join</c><00:12:54.959><c> some</c><00:12:55.360><c> type</c><00:12:55.760><c> of</c><00:12:56.079><c> group</c>
+
+00:12:56.310 --> 00:12:56.320 align:start position:0%
+self-teaching join some type of group
+ 
+
+00:12:56.320 --> 00:12:59.590 align:start position:0%
+self-teaching join some type of group
+like<00:12:56.480><c> a</c><00:12:56.560><c> facebook</c><00:12:57.040><c> group</c><00:12:57.600><c> a</c><00:12:58.079><c> slack</c><00:12:58.560><c> channel</c><00:12:59.040><c> a</c>
+
+00:12:59.590 --> 00:12:59.600 align:start position:0%
+like a facebook group a slack channel a
+ 
+
+00:12:59.600 --> 00:13:01.990 align:start position:0%
+like a facebook group a slack channel a
+linkedin<00:13:00.240><c> group</c><00:13:00.560><c> join</c><00:13:00.880><c> some</c><00:13:01.040><c> type</c><00:13:01.279><c> of</c><00:13:01.519><c> group</c>
+
+00:13:01.990 --> 00:13:02.000 align:start position:0%
+linkedin group join some type of group
+ 
+
+00:13:02.000 --> 00:13:04.470 align:start position:0%
+linkedin group join some type of group
+that's<00:13:02.399><c> focused</c><00:13:02.959><c> on</c><00:13:03.279><c> programming</c><00:13:03.839><c> especially</c>
+
+00:13:04.470 --> 00:13:04.480 align:start position:0%
+that's focused on programming especially
+ 
+
+00:13:04.480 --> 00:13:06.230 align:start position:0%
+that's focused on programming especially
+programming<00:13:04.959><c> either</c><00:13:05.200><c> as</c><00:13:05.279><c> a</c><00:13:05.360><c> beginner</c><00:13:05.920><c> or</c>
+
+00:13:06.230 --> 00:13:06.240 align:start position:0%
+programming either as a beginner or
+ 
+
+00:13:06.240 --> 00:13:08.870 align:start position:0%
+programming either as a beginner or
+self-teaching<00:13:07.040><c> and</c><00:13:07.200><c> so</c><00:13:07.440><c> join</c><00:13:08.000><c> something</c><00:13:08.639><c> that</c>
+
+00:13:08.870 --> 00:13:08.880 align:start position:0%
+self-teaching and so join something that
+ 
+
+00:13:08.880 --> 00:13:11.590 align:start position:0%
+self-teaching and so join something that
+speaks<00:13:09.360><c> to</c><00:13:09.519><c> you</c><00:13:10.000><c> and</c><00:13:10.320><c> be</c><00:13:10.639><c> active</c><00:13:11.120><c> on</c><00:13:11.279><c> those</c>
+
+00:13:11.590 --> 00:13:11.600 align:start position:0%
+speaks to you and be active on those
+ 
+
+00:13:11.600 --> 00:13:13.750 align:start position:0%
+speaks to you and be active on those
+channels<00:13:12.160><c> make</c><00:13:12.399><c> relationships</c><00:13:12.959><c> and</c><00:13:13.120><c> say</c><00:13:13.440><c> hey</c>
+
+00:13:13.750 --> 00:13:13.760 align:start position:0%
+channels make relationships and say hey
+ 
+
+00:13:13.760 --> 00:13:15.350 align:start position:0%
+channels make relationships and say hey
+i<00:13:13.839><c> would</c><00:13:14.079><c> love</c><00:13:14.240><c> to</c><00:13:14.399><c> have</c><00:13:14.480><c> a</c><00:13:14.560><c> pair</c><00:13:14.800><c> programming</c>
+
+00:13:15.350 --> 00:13:15.360 align:start position:0%
+i would love to have a pair programming
+ 
+
+00:13:15.360 --> 00:13:17.509 align:start position:0%
+i would love to have a pair programming
+session<00:13:16.000><c> with</c><00:13:16.240><c> somebody</c><00:13:16.880><c> you</c><00:13:17.040><c> don't</c><00:13:17.200><c> need</c><00:13:17.360><c> to</c>
+
+00:13:17.509 --> 00:13:17.519 align:start position:0%
+session with somebody you don't need to
+ 
+
+00:13:17.519 --> 00:13:20.150 align:start position:0%
+session with somebody you don't need to
+have<00:13:17.760><c> a</c><00:13:17.920><c> whole</c><00:13:18.320><c> project</c><00:13:18.720><c> set</c><00:13:18.959><c> up</c><00:13:19.200><c> you</c><00:13:19.360><c> can</c><00:13:19.600><c> even</c>
+
+00:13:20.150 --> 00:13:20.160 align:start position:0%
+have a whole project set up you can even
+ 
+
+00:13:20.160 --> 00:13:22.150 align:start position:0%
+have a whole project set up you can even
+just<00:13:20.480><c> do</c><00:13:20.720><c> a</c><00:13:20.880><c> leak</c><00:13:21.120><c> code</c><00:13:21.360><c> session</c><00:13:21.680><c> with</c><00:13:21.839><c> someone</c>
+
+00:13:22.150 --> 00:13:22.160 align:start position:0%
+just do a leak code session with someone
+ 
+
+00:13:22.160 --> 00:13:24.389 align:start position:0%
+just do a leak code session with someone
+like<00:13:22.399><c> i'm</c><00:13:22.560><c> going</c><00:13:22.800><c> to</c><00:13:22.880><c> be</c><00:13:23.040><c> going</c><00:13:23.279><c> over</c><00:13:24.000><c> five</c>
+
+00:13:24.389 --> 00:13:24.399 align:start position:0%
+like i'm going to be going over five
+ 
+
+00:13:24.399 --> 00:13:25.829 align:start position:0%
+like i'm going to be going over five
+problems<00:13:24.720><c> on</c><00:13:24.800><c> late</c><00:13:25.040><c> code</c><00:13:25.279><c> i</c><00:13:25.440><c> would</c><00:13:25.519><c> love</c><00:13:25.680><c> to</c>
+
+00:13:25.829 --> 00:13:25.839 align:start position:0%
+problems on late code i would love to
+ 
+
+00:13:25.839 --> 00:13:27.350 align:start position:0%
+problems on late code i would love to
+pair<00:13:26.079><c> program</c><00:13:26.399><c> with</c><00:13:26.480><c> someone</c><00:13:26.880><c> as</c><00:13:26.959><c> we</c><00:13:27.120><c> solve</c>
+
+00:13:27.350 --> 00:13:27.360 align:start position:0%
+pair program with someone as we solve
+ 
+
+00:13:27.360 --> 00:13:29.190 align:start position:0%
+pair program with someone as we solve
+these<00:13:27.519><c> problems</c><00:13:27.920><c> together</c><00:13:28.320><c> so</c><00:13:28.560><c> go</c><00:13:28.800><c> past</c><00:13:29.040><c> just</c>
+
+00:13:29.190 --> 00:13:29.200 align:start position:0%
+these problems together so go past just
+ 
+
+00:13:29.200 --> 00:13:31.750 align:start position:0%
+these problems together so go past just
+using<00:13:29.519><c> your</c><00:13:29.680><c> ide</c><00:13:30.160><c> to</c><00:13:30.320><c> problem</c><00:13:30.720><c> solve</c><00:13:31.040><c> because</c>
+
+00:13:31.750 --> 00:13:31.760 align:start position:0%
+using your ide to problem solve because
+ 
+
+00:13:31.760 --> 00:13:33.350 align:start position:0%
+using your ide to problem solve because
+being<00:13:32.000><c> a</c><00:13:32.160><c> software</c><00:13:32.480><c> engineer</c><00:13:32.880><c> is</c><00:13:32.959><c> just</c><00:13:33.200><c> so</c>
+
+00:13:33.350 --> 00:13:33.360 align:start position:0%
+being a software engineer is just so
+ 
+
+00:13:33.360 --> 00:13:35.110 align:start position:0%
+being a software engineer is just so
+much<00:13:33.760><c> more</c><00:13:34.000><c> than</c><00:13:34.079><c> that</c><00:13:34.320><c> it's</c><00:13:34.480><c> about</c><00:13:34.720><c> true</c>
+
+00:13:35.110 --> 00:13:35.120 align:start position:0%
+much more than that it's about true
+ 
+
+00:13:35.120 --> 00:13:37.350 align:start position:0%
+much more than that it's about true
+meaningful<00:13:35.680><c> collaboration</c><00:13:36.639><c> and</c><00:13:36.720><c> so</c><00:13:37.120><c> that's</c>
+
+00:13:37.350 --> 00:13:37.360 align:start position:0%
+meaningful collaboration and so that's
+ 
+
+00:13:37.360 --> 00:13:39.430 align:start position:0%
+meaningful collaboration and so that's
+what<00:13:37.440><c> you</c><00:13:37.519><c> should</c><00:13:37.839><c> practice</c><00:13:38.720><c> while</c><00:13:39.040><c> on</c><00:13:39.199><c> your</c>
+
+00:13:39.430 --> 00:13:39.440 align:start position:0%
+what you should practice while on your
+ 
+
+00:13:39.440 --> 00:13:41.750 align:start position:0%
+what you should practice while on your
+journey<00:13:39.839><c> to</c><00:13:40.079><c> become</c><00:13:40.880><c> such</c><00:13:41.279><c> and</c><00:13:41.360><c> so</c><00:13:41.440><c> i</c><00:13:41.519><c> love</c>
+
+00:13:41.750 --> 00:13:41.760 align:start position:0%
+journey to become such and so i love
+ 
+
+00:13:41.760 --> 00:13:43.110 align:start position:0%
+journey to become such and so i love
+code<00:13:41.920><c> screen</c><00:13:42.160><c> because</c><00:13:42.320><c> it</c><00:13:42.399><c> does</c><00:13:42.720><c> such</c><00:13:43.040><c> an</c>
+
+00:13:43.110 --> 00:13:43.120 align:start position:0%
+code screen because it does such an
+ 
+
+00:13:43.120 --> 00:13:45.110 align:start position:0%
+code screen because it does such an
+amazing<00:13:43.519><c> job</c><00:13:43.760><c> at</c><00:13:43.839><c> helping</c><00:13:44.079><c> you</c><00:13:44.240><c> do</c><00:13:44.399><c> that</c><00:13:44.800><c> i</c>
+
+00:13:45.110 --> 00:13:45.120 align:start position:0%
+amazing job at helping you do that i
+ 
+
+00:13:45.120 --> 00:13:47.910 align:start position:0%
+amazing job at helping you do that i
+understand<00:13:46.079><c> that</c><00:13:46.320><c> pair</c><00:13:46.800><c> programming</c><00:13:47.760><c> can</c>
+
+00:13:47.910 --> 00:13:47.920 align:start position:0%
+understand that pair programming can
+ 
+
+00:13:47.920 --> 00:13:50.230 align:start position:0%
+understand that pair programming can
+sometimes<00:13:48.399><c> be</c><00:13:48.560><c> this</c><00:13:48.800><c> thing</c><00:13:48.959><c> of</c><00:13:49.120><c> like</c><00:13:49.440><c> oh</c>
+
+00:13:50.230 --> 00:13:50.240 align:start position:0%
+sometimes be this thing of like oh
+ 
+
+00:13:50.240 --> 00:13:52.870 align:start position:0%
+sometimes be this thing of like oh
+oh<00:13:50.560><c> no</c><00:13:51.040><c> and</c><00:13:51.440><c> there</c><00:13:51.680><c> can</c><00:13:51.839><c> be</c><00:13:52.160><c> so</c><00:13:52.399><c> much</c>
+
+00:13:52.870 --> 00:13:52.880 align:start position:0%
+oh no and there can be so much
+ 
+
+00:13:52.880 --> 00:13:54.470 align:start position:0%
+oh no and there can be so much
+hesitation<00:13:53.680><c> so</c>
+
+00:13:54.470 --> 00:13:54.480 align:start position:0%
+hesitation so
+ 
+
+00:13:54.480 --> 00:13:57.430 align:start position:0%
+hesitation so
+little<00:13:54.959><c> buy-in</c><00:13:55.360><c> especially</c><00:13:56.399><c> with</c><00:13:56.800><c> beginners</c>
+
+00:13:57.430 --> 00:13:57.440 align:start position:0%
+little buy-in especially with beginners
+ 
+
+00:13:57.440 --> 00:13:59.990 align:start position:0%
+little buy-in especially with beginners
+you<00:13:57.680><c> feel</c><00:13:57.920><c> like</c><00:13:58.079><c> you're</c><00:13:58.320><c> not</c><00:13:58.800><c> there</c><00:13:59.120><c> yet</c><00:13:59.519><c> or</c>
+
+00:13:59.990 --> 00:14:00.000 align:start position:0%
+you feel like you're not there yet or
+ 
+
+00:14:00.000 --> 00:14:01.670 align:start position:0%
+you feel like you're not there yet or
+you<00:14:00.240><c> just</c><00:14:00.720><c> are</c>
+
+00:14:01.670 --> 00:14:01.680 align:start position:0%
+you just are
+ 
+
+00:14:01.680 --> 00:14:03.509 align:start position:0%
+you just are
+you<00:14:01.920><c> just</c><00:14:02.160><c> feel</c><00:14:02.480><c> asked</c><00:14:02.800><c> about</c><00:14:03.040><c> it</c><00:14:03.199><c> either</c>
+
+00:14:03.509 --> 00:14:03.519 align:start position:0%
+you just feel asked about it either
+ 
+
+00:14:03.519 --> 00:14:05.590 align:start position:0%
+you just feel asked about it either
+because<00:14:04.240><c> you</c><00:14:04.399><c> feel</c><00:14:04.560><c> like</c><00:14:04.800><c> it's</c><00:14:04.959><c> too</c><00:14:05.199><c> advanced</c>
+
+00:14:05.590 --> 00:14:05.600 align:start position:0%
+because you feel like it's too advanced
+ 
+
+00:14:05.600 --> 00:14:07.990 align:start position:0%
+because you feel like it's too advanced
+for<00:14:05.760><c> you</c><00:14:06.000><c> or</c><00:14:06.399><c> you're</c><00:14:06.639><c> afraid</c><00:14:07.440><c> of</c><00:14:07.680><c> having</c>
+
+00:14:07.990 --> 00:14:08.000 align:start position:0%
+for you or you're afraid of having
+ 
+
+00:14:08.000 --> 00:14:10.150 align:start position:0%
+for you or you're afraid of having
+someone<00:14:08.560><c> watch</c><00:14:08.880><c> your</c><00:14:09.120><c> code</c><00:14:09.760><c> because</c><00:14:10.000><c> you're</c>
+
+00:14:10.150 --> 00:14:10.160 align:start position:0%
+someone watch your code because you're
+ 
+
+00:14:10.160 --> 00:14:11.670 align:start position:0%
+someone watch your code because you're
+like<00:14:10.399><c> what</c><00:14:10.639><c> if</c><00:14:10.800><c> they</c><00:14:10.959><c> say</c><00:14:11.199><c> i'm</c><00:14:11.279><c> not</c><00:14:11.519><c> good</c>
+
+00:14:11.670 --> 00:14:11.680 align:start position:0%
+like what if they say i'm not good
+ 
+
+00:14:11.680 --> 00:14:13.750 align:start position:0%
+like what if they say i'm not good
+enough<00:14:12.000><c> or</c><00:14:12.160><c> what</c><00:14:12.320><c> if</c><00:14:12.639><c> they</c><00:14:12.880><c> show</c><00:14:13.120><c> me</c><00:14:13.279><c> all</c><00:14:13.519><c> these</c>
+
+00:14:13.750 --> 00:14:13.760 align:start position:0%
+enough or what if they show me all these
+ 
+
+00:14:13.760 --> 00:14:16.550 align:start position:0%
+enough or what if they show me all these
+problems<00:14:14.240><c> and</c><00:14:14.480><c> all</c><00:14:14.560><c> of</c><00:14:14.639><c> these</c><00:14:14.880><c> things</c><00:14:15.440><c> y'all</c>
+
+00:14:16.550 --> 00:14:16.560 align:start position:0%
+problems and all of these things y'all
+ 
+
+00:14:16.560 --> 00:14:19.509 align:start position:0%
+problems and all of these things y'all
+seriously<00:14:16.959><c> if</c><00:14:17.199><c> for</c><00:14:17.519><c> no</c><00:14:17.920><c> other</c><00:14:18.160><c> reason</c><00:14:18.880><c> do</c><00:14:19.120><c> it</c>
+
+00:14:19.509 --> 00:14:19.519 align:start position:0%
+seriously if for no other reason do it
+ 
+
+00:14:19.519 --> 00:14:21.910 align:start position:0%
+seriously if for no other reason do it
+because<00:14:20.000><c> on</c><00:14:20.240><c> the</c><00:14:20.560><c> job</c><00:14:20.959><c> it</c><00:14:21.120><c> is</c><00:14:21.279><c> going</c><00:14:21.519><c> to</c><00:14:21.680><c> be</c>
+
+00:14:21.910 --> 00:14:21.920 align:start position:0%
+because on the job it is going to be
+ 
+
+00:14:21.920 --> 00:14:24.550 align:start position:0%
+because on the job it is going to be
+something<00:14:22.880><c> that</c><00:14:23.440><c> you</c><00:14:23.760><c> want</c><00:14:23.920><c> to</c><00:14:24.079><c> feel</c>
+
+00:14:24.550 --> 00:14:24.560 align:start position:0%
+something that you want to feel
+ 
+
+00:14:24.560 --> 00:14:26.710 align:start position:0%
+something that you want to feel
+comfortable<00:14:25.199><c> with</c><00:14:25.680><c> already</c><00:14:26.240><c> so</c><00:14:26.399><c> make</c><00:14:26.560><c> sure</c>
+
+00:14:26.710 --> 00:14:26.720 align:start position:0%
+comfortable with already so make sure
+ 
+
+00:14:26.720 --> 00:14:29.430 align:start position:0%
+comfortable with already so make sure
+you
+
+00:14:29.430 --> 00:14:29.440 align:start position:0%
+ 
+ 
+
+00:14:29.440 --> 00:14:30.949 align:start position:0%
+ 
+be<00:14:29.680><c> a</c> download<00:14:29.920><c> of</c><00:14:30.000><c> that</c><00:14:30.240><c> knowledge</c><00:14:30.560><c> sharing</c>
+
+00:14:30.949 --> 00:14:30.959 align:start position:0%
+be a download of that knowledge sharing
+ 
+
+00:14:30.959 --> 00:14:33.110 align:start position:0%
+be a download of that knowledge sharing
+and<00:14:31.040><c> just</c><00:14:31.279><c> become</c><00:14:31.760><c> a</c><00:14:31.920><c> better</c><00:14:32.240><c> developer</c><00:14:32.880><c> in</c>
+
+00:14:33.110 --> 00:14:33.120 align:start position:0%
+and just become a better developer in
+ 
+
+00:14:33.120 --> 00:14:34.550 align:start position:0%
+and just become a better developer in
+general<00:14:33.600><c> so</c><00:14:33.760><c> thank</c><00:14:33.839><c> you</c><00:14:34.000><c> all</c><00:14:34.079><c> so</c><00:14:34.240><c> much</c><00:14:34.399><c> for</c>
+
+00:14:34.550 --> 00:14:34.560 align:start position:0%
+general so thank you all so much for
+ 
+
+00:14:34.560 --> 00:14:35.750 align:start position:0%
+general so thank you all so much for
+watching<00:14:34.880><c> don't</c><00:14:35.040><c> forget</c><00:14:35.279><c> to</c><00:14:35.440><c> leave</c><00:14:35.600><c> that</c>
+
+00:14:35.750 --> 00:14:35.760 align:start position:0%
+watching don't forget to leave that
+ 
+
+00:14:35.760 --> 00:14:38.389 align:start position:0%
+watching don't forget to leave that
+comment<00:14:36.079><c> below</c><00:14:36.560><c> and</c><00:14:36.720><c> i'll</c><00:14:36.959><c> talk</c><00:14:37.279><c> to</c><00:14:37.440><c> you</c><00:14:37.760><c> later</c>
+
+00:14:38.389 --> 00:14:38.399 align:start position:0%
+comment below and i'll talk to you later
+ 
+
+00:14:38.399 --> 00:14:41.399 align:start position:0%
+comment below and i'll talk to you later
+bye
+
