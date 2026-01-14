@@ -2,6 +2,7 @@ import os
 import chromadb
 import json
 import time
+import uuid
 from openai import OpenAI
 from pathlib import Path
 from dotenv import load_dotenv
@@ -37,8 +38,6 @@ def process_all_transcripts():
 
     return all_transcripts
 
-all_transcripts = process_all_transcripts()
-
 # Now, chunk the transcripts
 
 CHUNK_SIZE = 500
@@ -70,9 +69,57 @@ def chunk_all_transcripts(all_transcripts):
     
     return all_chunks
 
+def create_embedding(text):
+    response = client.embeddings.create(
+        model = "text-embedding-3-small",
+        input = text
+    )
+
+    embedding = response.data[0].embedding
+    return embedding
+
+def embed_all_chunks(all_chunks):
+    all_ids = []
+    all_documents = []
+    all_embeddings = []
+    all_metadatas = []
+
+    for video in all_chunks:
+        print(f"embedding {video['title'][:50]}...")
+        
+        for i, chunk in enumerate(video['chunks']):
+            embedding = create_embedding(chunk)
+            chunk_id = f"{video['video_id']}_{uuid.uuid4().hex[:8]}"
+
+            all_ids.append(chunk_id)
+            all_documents.append(chunk)
+            all_embeddings.append(embedding)
+            all_metadatas.append({
+                'title': video['title'],
+                'video_id': video['video_id'],
+                'chunk_index': i
+            })
+
+            print(f"  Embedded chunk {i + 1} of {len(video['chunks'])}")
+    
+    collection.add(
+        ids = all_ids,
+        documents = all_documents,
+        embeddings = all_embeddings,
+        metadatas = all_metadatas
+    )
+    print(f"\nStored {len(all_ids)} embeddings in ChromaDB!")
+
+# Clear existing data
+chroma_client.delete_collection(name="youtube_transcripts")
+collection = chroma_client.get_or_create_collection(
+    name="youtube_transcripts",
+    metadata={"description": "The Black Female Engineer YouTube Content"}
+)
+
+all_transcripts = process_all_transcripts()
 all_chunks = chunk_all_transcripts(all_transcripts)
-
-
+embed_all_chunks(all_chunks)
 
 
 
