@@ -156,4 +156,23 @@ def ask(query):
 
     print(response.choices[0].message.content)
 
-ask("How do I become a software engineer?")
+def rewrite_query(query):
+    response = client.chat.completions.create(
+        model = "gpt-4o-mini",
+        messages = [
+            {
+                "role": "system",
+                "content": "You rewrite user queries to improve search results. The content being searched is from a YouTube channel about becoming a software engineer, coding bootcamps, tech careers, and personal branding in tech. Rewrite the query to be more specific and include relevant terms. Return only the rewritten query, nothing else."
+            },
+            {
+                "role": "user",
+                "content": query
+            }
+        ]
+    )
+
+    rewritten_question = response.choices[0].message.content
+    # print(f"Rewritten question is: {rewritten_question}")
+    ask(rewritten_question)
+
+rewrite_query("How do I become a software engineer?")
