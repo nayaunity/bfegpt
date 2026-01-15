@@ -135,6 +135,11 @@ def find_relevant_chunks(query, top_k=5):
     return results
 
 def ask(query):
+    if query == 'IRRELEVANT':
+        irrelevant = "This question is not related to my content"
+        print(irrelevant)
+        return None
+
     results = find_relevant_chunks(query)
 
     chunks = results['documents'][0]
@@ -159,10 +164,16 @@ def ask(query):
 def rewrite_query(query):
     response = client.chat.completions.create(
         model = "gpt-4o-mini",
-        messages = [
+        messages=[
             {
                 "role": "system",
-                "content": "You rewrite user queries to improve search results. The content being searched is from a YouTube channel about becoming a self-taught software engineer. This process involves not only learning the appropriate curriculum, but also getting a software engineering job. Rewrite the query to be more specific and include relevant terms. Return only the rewritten query, nothing else."
+                "content": """You rewrite user queries to improve search results for a YouTube channel about becoming a software engineer, coding bootcamps, tech careers, and personal branding in tech.
+
+If the query is relevant to these topics, rewrite it to be more specific and include relevant terms.
+
+If the query is irrelevant, off-topic, or doesn't make sense for this content, respond with exactly: IRRELEVANT
+
+Return only the rewritten query or IRRELEVANT, nothing else."""
             },
             {
                 "role": "user",
@@ -175,5 +186,5 @@ def rewrite_query(query):
     print(f"Rewritten question is: {rewritten_question}")
     ask(rewritten_question)
 
-rewrite_query("How do I get started?")
+rewrite_query("Where are you?")
 # ask("How do I get started?")
