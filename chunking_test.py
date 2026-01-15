@@ -27,7 +27,7 @@ def process_all_transcripts():
         with open(file, 'r') as f:
             data = json.load(f)
         
-        transcript = data['transcript']
+        transcript = data['transcript'][500:]
         title = data.get('video_title', file.stem)
 
         all_transcripts.append({
@@ -110,79 +110,50 @@ def embed_all_chunks(all_chunks):
     )
     print(f"\nStored {len(all_ids)} embeddings in ChromaDB!")
 
-# Clear existing data
-chroma_client.delete_collection(name="youtube_transcripts")
-collection = chroma_client.get_or_create_collection(
-    name="youtube_transcripts",
-    metadata={"description": "The Black Female Engineer YouTube Content"}
-)
+# # Clear existing data
+# chroma_client.delete_collection(name="youtube_transcripts")
+# collection = chroma_client.get_or_create_collection(
+#     name="youtube_transcripts",
+#     metadata={"description": "The Black Female Engineer YouTube Content"}
+# )
 
-all_transcripts = process_all_transcripts()
-all_chunks = chunk_all_transcripts(all_transcripts)
-embed_all_chunks(all_chunks)
-
-
+# all_transcripts = process_all_transcripts()
+# all_chunks = chunk_all_transcripts(all_transcripts)
+# embed_all_chunks(all_chunks)
 
 
+def find_relevant_chunks(query, top_k=5):
+    query_embedding = create_embedding(query)
 
+    results = collection.query(
+        query_embeddings = [query_embedding],
+        n_results = top_k,
+        include = ["documents", "metadatas", "distances"]
 
+    )
 
+    return results
 
+def ask(query):
+    results = find_relevant_chunks(query)
 
+    chunks = results['documents'][0]
+    context = "\n\n".join(chunks)
 
-# CHUNK_SIZE = 500
-# OVERLAP = 100
+    response = client.chat.completions.create(
+        model = "gpt-4o-mini",
+        messages = [
+            {
+                "role": "system",
+                "content": "You are Naya, the creator behind @TheBlackFemaleEngineer. Answer questions based only on the provided context from your YouTube videos. Be helpful, warm, and conversational—like you're talking to your audience."
+            },
+            {
+                "role": "user",
+                "content": f"Content from your videos: \n{context}\nQuestion{query}"
+            }
+        ]
+    )
 
-# def create_chunks(text, chunk_size, overlap):
-#     start = 0
-#     chunks = []
+    print(response.choices[0].message.content)
 
-#     while start < len(text):
-#         end = start + chunk_size
-#         chunk = text[start:end]
-#         chunks.append(chunk)
-
-#         start = end - overlap
-
-#     return chunks
-
-# chunks = create_chunks(transcript, CHUNK_SIZE, OVERLAP)
-# print(f"length of chunks: {len(chunks)}")
-
-# #  Now we need to create embeddings from the chunked text
-
-# def create_embedding(text):
-#     response = client.embeddings.create(
-#         model = "text-embedding-3-small",
-#         input = text
-#     )
-
-#     embedding = response.data[0].embedding
-#     return embedding
-
-# # embedding = create_embedding(chunks[0])
-
-# def create_structured_embedding():
-#     structured_embedding = []
-#     ids = []
-#     documents = []
-#     embeddings = []
-
-#     for i, chunk in enumerate(chunks):
-#         embedding = create_embedding(chunk)
-#         ids.append(str(i))
-#         documents.append(chunk)
-#         embeddings.append(embedding)
-#         print(f"Embedded chunk {i + 1} of {len(chunks)}")
-    
-#     collection.add(
-#         ids = ids,
-#         documents = documents,
-#         embeddings = embeddings
-#     )
-    
-#     return collection
-
-# create_structured_embedding()
-
-# print(f"added {collection.count()} embeddings")
+ask("How do I become a software engineer?")
